@@ -2,4 +2,4 @@
 Supplementary code for MSc Dissertation in Statistical Science.
 
 Files:
-- **Simulation**
+- **Simulations**- functions for creating simulated datasets using in Chapter 2.
