@@ -1,0 +1,14 @@
+,Unnamed: 0,model,obs,score
+0,,Unweighted Cox PH,750,0.9596476271668087
+1,,"Cox PH, Barlow weights",750,0.9611821540210287
+2,,"Cox PH, Prentice weights",750,0.962205171923842
+3,,"Cox PH, Self-Prentice weights",750,0.9626598465473146
+4,,"Cox PH Ridge, Barlow weights",750,0.9611821540210287
+5,,"Cox PH Lasso, Barlow weights",750,0.9611821540210287
+6,,"Cox PH Elastic Net, Barlow weights",750,0.9611821540210287
+7,,"Survival Tree, unweighted",750,0.8996874111963626
+8,,"Survival Tree, random oversampler",750,0.907104290991759
+9,,"Survival Tree, SMOTENC",750,0.8838590508667235
+10,,"Random Survival Forest, unweighted",750,0.9506678033532253
+11,,"Random Survival Forest, random oversampler",750,0.9465757317419722
+12,,"Random Survival Forest, SMOTENC",750,0.9481670929241262

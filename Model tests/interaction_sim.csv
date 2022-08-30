@@ -1,0 +1,1301 @@
+,model,obs,score
+0,Unweighted Cox PH,750.0,0.6471102631369743
+1,"Cox PH, Barlow weights",750.0,0.6472692582876223
+2,"Cox PH, Prentice weights",750.0,0.6474282534382702
+3,"Cox PH, Self-Prentice weights",750.0,0.647587248588918
+4,"Cox PH Lasso, Barlow weights",750.0,0.6474282534382702
+5,"Cox PH Ridge, Barlow weights",750.0,0.6472692582876223
+6,"Cox PH Elastic Net, Barlow weights",750.0,0.6472692582876223
+7,"Survival Tree, unweighted",750.0,0.8351220287781222
+8,"Survival Tree, random oversampler",750.0,0.8080928531679784
+9,"Survival Tree, SMOTENC",750.0,0.7721202003338898
+10,"Random Survival Forest, unweighted",750.0,0.8262977979171635
+11,"Random Survival Forest, random oversampler",750.0,0.8206534700691629
+12,"Random Survival Forest, SMOTENC",750.0,0.8219254312743461
+13,Unweighted Cox PH,750.0,0.6593975639997083
+14,"Cox PH, Barlow weights",750.0,0.6599081029830064
+15,"Cox PH, Prentice weights",750.0,0.6599081029830064
+16,"Cox PH, Self-Prentice weights",750.0,0.6596893005615929
+17,"Cox PH Lasso, Barlow weights",750.0,0.6599081029830064
+18,"Cox PH Ridge, Barlow weights",750.0,0.6599081029830064
+19,"Cox PH Elastic Net, Barlow weights",750.0,0.6599081029830064
+20,"Survival Tree, unweighted",750.0,0.8707242360148786
+21,"Survival Tree, random oversampler",750.0,0.8614251331048064
+22,"Survival Tree, SMOTENC",750.0,0.8538764495660419
+23,"Random Survival Forest, unweighted",750.0,0.8986944788855663
+24,"Random Survival Forest, random oversampler",750.0,0.8956677120560134
+25,"Random Survival Forest, SMOTENC",750.0,0.9062796294945664
+26,Unweighted Cox PH,750.0,0.7495855120520342
+27,"Cox PH, Barlow weights",750.0,0.7497768141818646
+28,"Cox PH, Prentice weights",750.0,0.7494579772988139
+29,"Cox PH, Self-Prentice weights",750.0,0.7544956000510139
+30,"Cox PH Lasso, Barlow weights",750.0,0.7487565361561025
+31,"Cox PH Ridge, Barlow weights",750.0,0.7497768141818646
+32,"Cox PH Elastic Net, Barlow weights",750.0,0.7465246779747481
+33,"Survival Tree, unweighted",750.0,0.8349700293329932
+34,"Survival Tree, random oversampler",750.0,0.8511350593036603
+35,"Survival Tree, SMOTENC",750.0,0.8338859839306211
+36,"Random Survival Forest, unweighted",750.0,0.8706159928580538
+37,"Random Survival Forest, random oversampler",750.0,0.8583088891722994
+38,"Random Survival Forest, SMOTENC",750.0,0.867172554521107
+39,Unweighted Cox PH,750.0,0.6486304719980436
+40,"Cox PH, Barlow weights",750.0,0.6485081927121545
+41,"Cox PH, Prentice weights",750.0,0.6486304719980436
+42,"Cox PH, Self-Prentice weights",750.0,0.6485081927121545
+43,"Cox PH Lasso, Barlow weights",750.0,0.6485081927121545
+44,"Cox PH Ridge, Barlow weights",750.0,0.6485081927121545
+45,"Cox PH Elastic Net, Barlow weights",750.0,0.6485081927121545
+46,"Survival Tree, unweighted",750.0,0.7986977256052825
+47,"Survival Tree, random oversampler",750.0,0.8000733675715334
+48,"Survival Tree, SMOTENC",750.0,0.8065847395451211
+49,"Random Survival Forest, unweighted",750.0,0.8543653705062363
+50,"Random Survival Forest, random oversampler",750.0,0.851063829787234
+51,"Random Survival Forest, SMOTENC",750.0,0.8599902176571289
+52,Unweighted Cox PH,750.0,0.6683846637335009
+53,"Cox PH, Barlow weights",750.0,0.6676932746700188
+54,"Cox PH, Prentice weights",750.0,0.6676932746700188
+55,"Cox PH, Self-Prentice weights",750.0,0.6673790069138906
+56,"Cox PH Lasso, Barlow weights",750.0,0.6676932746700188
+57,"Cox PH Ridge, Barlow weights",750.0,0.6676932746700188
+58,"Cox PH Elastic Net, Barlow weights",750.0,0.6676932746700188
+59,"Survival Tree, unweighted",750.0,0.8078881206788183
+60,"Survival Tree, random oversampler",750.0,0.813073538654934
+61,"Survival Tree, SMOTENC",750.0,0.8020427404148335
+62,"Random Survival Forest, unweighted",750.0,0.8197360150848523
+63,"Random Survival Forest, random oversampler",750.0,0.8311125078566939
+64,"Random Survival Forest, SMOTENC",750.0,0.8207416719044626
+65,Unweighted Cox PH,750.0,0.6292778226893021
+66,"Cox PH, Barlow weights",750.0,0.6304904338453247
+67,"Cox PH, Prentice weights",750.0,0.6304904338453247
+68,"Cox PH, Self-Prentice weights",750.0,0.6232147669091889
+69,"Cox PH Lasso, Barlow weights",750.0,0.6304904338453247
+70,"Cox PH Ridge, Barlow weights",750.0,0.6304904338453247
+71,"Cox PH Elastic Net, Barlow weights",750.0,0.6304904338453247
+72,"Survival Tree, unweighted",750.0,0.7933171651845864
+73,"Survival Tree, random oversampler",750.0,0.7503705200754514
+74,"Survival Tree, SMOTENC",750.0,0.738480194017785
+75,"Random Survival Forest, unweighted",750.0,0.7855025599568849
+76,"Random Survival Forest, random oversampler",750.0,0.7877930476960388
+77,"Random Survival Forest, SMOTENC",750.0,0.7756669361358125
+78,Unweighted Cox PH,750.0,0.7525701744253206
+79,"Cox PH, Barlow weights",750.0,0.7524546609680027
+80,"Cox PH, Prentice weights",750.0,0.7525701744253206
+81,"Cox PH, Self-Prentice weights",750.0,0.7506642023795772
+82,"Cox PH Lasso, Barlow weights",750.0,0.7524546609680027
+83,"Cox PH Ridge, Barlow weights",750.0,0.7524546609680027
+84,"Cox PH Elastic Net, Barlow weights",750.0,0.7524546609680027
+85,"Survival Tree, unweighted",750.0,0.8726752916714797
+86,"Survival Tree, random oversampler",750.0,0.8563012590966848
+87,"Survival Tree, SMOTENC",750.0,0.869700820145547
+88,"Random Survival Forest, unweighted",750.0,0.8916483770359247
+89,"Random Survival Forest, random oversampler",750.0,0.8910708097493358
+90,"Random Survival Forest, SMOTENC",750.0,0.8863058796349774
+91,Unweighted Cox PH,750.0,0.692616423520418
+92,"Cox PH, Barlow weights",750.0,0.6922978913168121
+93,"Cox PH, Prentice weights",750.0,0.6924253041982544
+94,"Cox PH, Self-Prentice weights",750.0,0.6892399821621966
+95,"Cox PH Lasso, Barlow weights",750.0,0.6936357265719564
+96,"Cox PH Ridge, Barlow weights",750.0,0.6922978913168121
+97,"Cox PH Elastic Net, Barlow weights",750.0,0.6922978913168121
+98,"Survival Tree, unweighted",750.0,0.8378671083646557
+99,"Survival Tree, random oversampler",750.0,0.8417532012486463
+100,"Survival Tree, SMOTENC",750.0,0.8252850863222272
+101,"Random Survival Forest, unweighted",750.0,0.8487609097279735
+102,"Random Survival Forest, random oversampler",750.0,0.8593361788876855
+103,"Random Survival Forest, SMOTENC",750.0,0.84856979040581
+104,Unweighted Cox PH,750.0,0.6627480251290664
+105,"Cox PH, Barlow weights",750.0,0.6610686073272377
+106,"Cox PH, Prentice weights",750.0,0.6611930086458917
+107,"Cox PH, Self-Prentice weights",750.0,0.6616284132611806
+108,"Cox PH Lasso, Barlow weights",750.0,0.6610686073272377
+109,"Cox PH Ridge, Barlow weights",750.0,0.6610686073272377
+110,"Cox PH Elastic Net, Barlow weights",750.0,0.6611308079865647
+111,"Survival Tree, unweighted",750.0,0.8248740436648628
+112,"Survival Tree, random oversampler",750.0,0.8146731355352367
+113,"Survival Tree, SMOTENC",750.0,0.8108788953162903
+114,"Random Survival Forest, unweighted",750.0,0.837967282453194
+115,"Random Survival Forest, random oversampler",750.0,0.8346084468495366
+116,"Random Survival Forest, SMOTENC",750.0,0.8353548547614604
+117,Unweighted Cox PH,750.0,0.7519072132977733
+118,"Cox PH, Barlow weights",750.0,0.7550703963282268
+119,"Cox PH, Prentice weights",750.0,0.7550703963282268
+120,"Cox PH, Self-Prentice weights",750.0,0.7553184891149289
+121,"Cox PH Lasso, Barlow weights",750.0,0.7550703963282268
+122,"Cox PH Ridge, Barlow weights",750.0,0.7550703963282268
+123,"Cox PH Elastic Net, Barlow weights",750.0,0.7550703963282268
+124,"Survival Tree, unweighted",750.0,0.8401041989704149
+125,"Survival Tree, random oversampler",750.0,0.8268312348818458
+126,"Survival Tree, SMOTENC",750.0,0.8413136513055883
+127,"Random Survival Forest, unweighted",750.0,0.8559821373193575
+128,"Random Survival Forest, random oversampler",750.0,0.8704335421447621
+129,"Random Survival Forest, SMOTENC",750.0,0.8555479749426286
+130,Unweighted Cox PH,750.0,0.5197211019208422
+131,"Cox PH, Barlow weights",750.0,0.5182855971016475
+132,"Cox PH, Prentice weights",750.0,0.51835395447399
+133,"Cox PH, Self-Prentice weights",750.0,0.5165083054207397
+134,"Cox PH Lasso, Barlow weights",750.0,0.5182855971016475
+135,"Cox PH Ridge, Barlow weights",750.0,0.5182855971016475
+136,"Cox PH Elastic Net, Barlow weights",750.0,0.5182855971016475
+137,"Survival Tree, unweighted",750.0,0.819639073074031
+138,"Survival Tree, random oversampler",750.0,0.8301319297286213
+139,"Survival Tree, SMOTENC",750.0,0.8288331396541117
+140,"Random Survival Forest, unweighted",750.0,0.818169389568665
+141,"Random Survival Forest, random oversampler",750.0,0.8426071501811471
+142,"Random Survival Forest, SMOTENC",750.0,0.8377879554309933
+143,Unweighted Cox PH,750.0,0.7016020935724772
+144,"Cox PH, Barlow weights",750.0,0.7005808387055594
+145,"Cox PH, Prentice weights",750.0,0.7005170102763771
+146,"Cox PH, Self-Prentice weights",750.0,0.7026871768685773
+147,"Cox PH Lasso, Barlow weights",750.0,0.7005808387055594
+148,"Cox PH Ridge, Barlow weights",750.0,0.7016020935724772
+149,"Cox PH Elastic Net, Barlow weights",750.0,0.7005808387055594
+150,"Survival Tree, unweighted",750.0,0.8087381119550647
+151,"Survival Tree, random oversampler",750.0,0.7855364779472778
+152,"Survival Tree, SMOTENC",750.0,0.7768238973638859
+153,"Random Survival Forest, unweighted",750.0,0.8452798876619646
+154,"Random Survival Forest, random oversampler",750.0,0.8402693559711496
+155,"Random Survival Forest, SMOTENC",750.0,0.83730133401417
+156,Unweighted Cox PH,750.0,0.7211424285982126
+157,"Cox PH, Barlow weights",750.0,0.722829823136054
+158,"Cox PH, Prentice weights",750.0,0.7228923192300482
+159,"Cox PH, Self-Prentice weights",750.0,0.7235172801699894
+160,"Cox PH Lasso, Barlow weights",750.0,0.7225798387600775
+161,"Cox PH Ridge, Barlow weights",750.0,0.722829823136054
+162,"Cox PH Elastic Net, Barlow weights",750.0,0.722829823136054
+163,"Survival Tree, unweighted",750.0,0.8451034310355603
+164,"Survival Tree, random oversampler",750.0,0.8114492844197237
+165,"Survival Tree, SMOTENC",750.0,0.8410099368789451
+166,"Random Survival Forest, unweighted",750.0,0.8526967064558465
+167,"Random Survival Forest, random oversampler",750.0,0.858446347103306
+168,"Random Survival Forest, SMOTENC",750.0,0.8571339291294294
+169,Unweighted Cox PH,750.0,0.7580418598117713
+170,"Cox PH, Barlow weights",750.0,0.7572692793931732
+171,"Cox PH, Prentice weights",750.0,0.7572692793931732
+172,"Cox PH, Self-Prentice weights",750.0,0.7579013906447535
+173,"Cox PH Lasso, Barlow weights",750.0,0.7572692793931732
+174,"Cox PH Ridge, Barlow weights",750.0,0.7572692793931732
+175,"Cox PH Elastic Net, Barlow weights",750.0,0.7567776373086108
+176,"Survival Tree, unweighted",750.0,0.8013765978367748
+177,"Survival Tree, random oversampler",750.0,0.8033782834667791
+178,"Survival Tree, SMOTENC",750.0,0.7941424357353561
+179,"Random Survival Forest, unweighted",750.0,0.8337547408343868
+180,"Random Survival Forest, random oversampler",750.0,0.8234302570585756
+181,"Random Survival Forest, SMOTENC",750.0,0.8426042983565107
+182,Unweighted Cox PH,750.0,0.6652313624678663
+183,"Cox PH, Barlow weights",750.0,0.663560411311054
+184,"Cox PH, Prentice weights",750.0,0.6634961439588689
+185,"Cox PH, Self-Prentice weights",750.0,0.6627249357326478
+186,"Cox PH Lasso, Barlow weights",750.0,0.6633676092544987
+187,"Cox PH Ridge, Barlow weights",750.0,0.663560411311054
+188,"Cox PH Elastic Net, Barlow weights",750.0,0.663560411311054
+189,"Survival Tree, unweighted",750.0,0.8372750642673522
+190,"Survival Tree, random oversampler",750.0,0.8279884318766066
+191,"Survival Tree, SMOTENC",750.0,0.8397172236503856
+192,"Random Survival Forest, unweighted",750.0,0.8223329048843188
+193,"Random Survival Forest, random oversampler",750.0,0.838560411311054
+194,"Random Survival Forest, SMOTENC",750.0,0.8357647814910025
+195,Unweighted Cox PH,750.0,0.7079118028534371
+196,"Cox PH, Barlow weights",750.0,0.7078469520103762
+197,"Cox PH, Prentice weights",750.0,0.7078469520103762
+198,"Cox PH, Self-Prentice weights",750.0,0.7062905317769131
+199,"Cox PH Lasso, Barlow weights",750.0,0.7078469520103762
+200,"Cox PH Ridge, Barlow weights",750.0,0.7078469520103762
+201,"Cox PH Elastic Net, Barlow weights",750.0,0.7078469520103762
+202,"Survival Tree, unweighted",750.0,0.8601167315175098
+203,"Survival Tree, random oversampler",750.0,0.8551556420233463
+204,"Survival Tree, SMOTENC",750.0,0.8640077821011674
+205,"Random Survival Forest, unweighted",750.0,0.8619974059662776
+206,"Random Survival Forest, random oversampler",750.0,0.8650453955901427
+207,"Random Survival Forest, SMOTENC",750.0,0.8675745784695201
+208,Unweighted Cox PH,750.0,0.7399886126399696
+209,"Cox PH, Barlow weights",750.0,0.7401151388625292
+210,"Cox PH, Prentice weights",750.0,0.7401151388625292
+211,"Cox PH, Self-Prentice weights",750.0,0.7400518757512494
+212,"Cox PH Lasso, Barlow weights",750.0,0.7401151388625292
+213,"Cox PH Ridge, Barlow weights",750.0,0.7401151388625292
+214,"Cox PH Elastic Net, Barlow weights",750.0,0.7401151388625292
+215,"Survival Tree, unweighted",750.0,0.8724931992155375
+216,"Survival Tree, random oversampler",750.0,0.8990637059530587
+217,"Survival Tree, SMOTENC",750.0,0.8698361485417853
+218,"Random Survival Forest, unweighted",750.0,0.9154172202188904
+219,"Random Survival Forest, random oversampler",750.0,0.9138356424368951
+220,"Random Survival Forest, SMOTENC",750.0,0.9052951224141204
+221,Unweighted Cox PH,750.0,0.7111688311688311
+222,"Cox PH, Barlow weights",750.0,0.711038961038961
+223,"Cox PH, Prentice weights",750.0,0.7111688311688311
+224,"Cox PH, Self-Prentice weights",750.0,0.7124675324675325
+225,"Cox PH Lasso, Barlow weights",750.0,0.711038961038961
+226,"Cox PH Ridge, Barlow weights",750.0,0.711038961038961
+227,"Cox PH Elastic Net, Barlow weights",750.0,0.711038961038961
+228,"Survival Tree, unweighted",750.0,0.8408766233766234
+229,"Survival Tree, random oversampler",750.0,0.8372077922077922
+230,"Survival Tree, SMOTENC",750.0,0.8313311688311689
+231,"Random Survival Forest, unweighted",750.0,0.8868831168831168
+232,"Random Survival Forest, random oversampler",750.0,0.8770779220779221
+233,"Random Survival Forest, SMOTENC",750.0,0.8895454545454545
+234,Unweighted Cox PH,750.0,0.7600404312668464
+235,"Cox PH, Barlow weights",750.0,0.7600404312668464
+236,"Cox PH, Prentice weights",750.0,0.7599730458221025
+237,"Cox PH, Self-Prentice weights",750.0,0.7602425876010782
+238,"Cox PH Lasso, Barlow weights",750.0,0.7600404312668464
+239,"Cox PH Ridge, Barlow weights",750.0,0.7600404312668464
+240,"Cox PH Elastic Net, Barlow weights",750.0,0.7600404312668464
+241,"Survival Tree, unweighted",750.0,0.8421495956873315
+242,"Survival Tree, random oversampler",750.0,0.8409366576819407
+243,"Survival Tree, SMOTENC",750.0,0.8139150943396226
+244,"Random Survival Forest, unweighted",750.0,0.8425539083557951
+245,"Random Survival Forest, random oversampler",750.0,0.8441037735849056
+246,"Random Survival Forest, SMOTENC",750.0,0.8402291105121293
+247,Unweighted Cox PH,750.0,0.5899689420471816
+248,"Cox PH, Barlow weights",750.0,0.5915548800634375
+249,"Cox PH, Prentice weights",750.0,0.5916870415647921
+250,"Cox PH, Self-Prentice weights",750.0,0.5915548800634375
+251,"Cox PH Lasso, Barlow weights",750.0,0.5915548800634375
+252,"Cox PH Ridge, Barlow weights",750.0,0.5915548800634375
+253,"Cox PH Elastic Net, Barlow weights",750.0,0.5915548800634375
+254,"Survival Tree, unweighted",750.0,0.8392255336020618
+255,"Survival Tree, random oversampler",750.0,0.835161567435406
+256,"Survival Tree, SMOTENC",750.0,0.8392255336020618
+257,"Random Survival Forest, unweighted",750.0,0.817088482125157
+258,"Random Survival Forest, random oversampler",750.0,0.8338729927971982
+259,"Random Survival Forest, SMOTENC",750.0,0.8206898830370714
+260,Unweighted Cox PH,750.0,0.6378130511463844
+261,"Cox PH, Barlow weights",750.0,0.6371075837742505
+262,"Cox PH, Prentice weights",750.0,0.6371075837742505
+263,"Cox PH, Self-Prentice weights",750.0,0.6370370370370371
+264,"Cox PH Lasso, Barlow weights",750.0,0.6371075837742505
+265,"Cox PH Ridge, Barlow weights",750.0,0.6371075837742505
+266,"Cox PH Elastic Net, Barlow weights",750.0,0.6371075837742505
+267,"Survival Tree, unweighted",750.0,0.8329100529100529
+268,"Survival Tree, random oversampler",750.0,0.8396825396825397
+269,"Survival Tree, SMOTENC",750.0,0.7995061728395062
+270,"Random Survival Forest, unweighted",750.0,0.8525573192239859
+271,"Random Survival Forest, random oversampler",750.0,0.854673721340388
+272,"Random Survival Forest, SMOTENC",750.0,0.8520634920634921
+273,Unweighted Cox PH,750.0,0.7318017552916882
+274,"Cox PH, Barlow weights",750.0,0.7299303045947341
+275,"Cox PH, Prentice weights",750.0,0.7299948373773877
+276,"Cox PH, Self-Prentice weights",750.0,0.7334150748580279
+277,"Cox PH Lasso, Barlow weights",750.0,0.7285751161590088
+278,"Cox PH Ridge, Barlow weights",750.0,0.7299303045947341
+279,"Cox PH Elastic Net, Barlow weights",750.0,0.7299303045947341
+280,"Survival Tree, unweighted",750.0,0.8820340733092411
+281,"Survival Tree, random oversampler",750.0,0.854639907072793
+282,"Survival Tree, SMOTENC",750.0,0.881421011874032
+283,"Random Survival Forest, unweighted",750.0,0.8964248838409912
+284,"Random Survival Forest, random oversampler",750.0,0.9034589571502323
+285,"Random Survival Forest, SMOTENC",750.0,0.890358802271554
+286,Unweighted Cox PH,750.0,0.7257478503088288
+287,"Cox PH, Barlow weights",750.0,0.7249606394574301
+288,"Cox PH, Prentice weights",750.0,0.7256872956279521
+289,"Cox PH, Self-Prentice weights",750.0,0.7255056315853216
+290,"Cox PH Lasso, Barlow weights",750.0,0.7262322877558435
+291,"Cox PH Ridge, Barlow weights",750.0,0.7249606394574301
+292,"Cox PH Elastic Net, Barlow weights",750.0,0.7249606394574301
+293,"Survival Tree, unweighted",750.0,0.8687174518590287
+294,"Survival Tree, random oversampler",750.0,0.8411953494005087
+295,"Survival Tree, SMOTENC",750.0,0.8831900205885915
+296,"Random Survival Forest, unweighted",750.0,0.8818578176093012
+297,"Random Survival Forest, random oversampler",750.0,0.8748334746275888
+298,"Random Survival Forest, SMOTENC",750.0,0.8826450284607
+299,Unweighted Cox PH,750.0,0.7117053867755936
+300,"Cox PH, Barlow weights",750.0,0.7124074546847077
+301,"Cox PH, Prentice weights",750.0,0.7124074546847077
+302,"Cox PH, Self-Prentice weights",750.0,0.6213300995659944
+303,"Cox PH Lasso, Barlow weights",750.0,0.7124074546847077
+304,"Cox PH Ridge, Barlow weights",750.0,0.7124074546847077
+305,"Cox PH Elastic Net, Barlow weights",750.0,0.7124074546847077
+306,"Survival Tree, unweighted",750.0,0.8368330354863416
+307,"Survival Tree, random oversampler",750.0,0.8269721725810569
+308,"Survival Tree, SMOTENC",750.0,0.8358437579780444
+309,"Random Survival Forest, unweighted",750.0,0.8415241256063314
+310,"Random Survival Forest, random oversampler",750.0,0.8503957110033189
+311,"Random Survival Forest, SMOTENC",750.0,0.8354608118458003
+312,Unweighted Cox PH,750.0,0.6525076765609007
+313,"Cox PH, Barlow weights",750.0,0.6568577277379734
+314,"Cox PH, Prentice weights",750.0,0.6569216990788127
+315,"Cox PH, Self-Prentice weights",750.0,0.650460593654043
+316,"Cox PH Lasso, Barlow weights",750.0,0.6568577277379734
+317,"Cox PH Ridge, Barlow weights",750.0,0.6568577277379734
+318,"Cox PH Elastic Net, Barlow weights",750.0,0.6568577277379734
+319,"Survival Tree, unweighted",750.0,0.8338344421699079
+320,"Survival Tree, random oversampler",750.0,0.8316594165813715
+321,"Survival Tree, SMOTENC",750.0,0.8343462128966224
+322,"Random Survival Forest, unweighted",750.0,0.8355296827021494
+323,"Random Survival Forest, random oversampler",750.0,0.8446775844421699
+324,"Random Survival Forest, SMOTENC",750.0,0.8422466734902764
+325,Unweighted Cox PH,750.0,0.7438563327032136
+326,"Cox PH, Barlow weights",750.0,0.743289224952741
+327,"Cox PH, Prentice weights",750.0,0.7431632010081916
+328,"Cox PH, Self-Prentice weights",750.0,0.7434152488972905
+329,"Cox PH Lasso, Barlow weights",750.0,0.7430371770636421
+330,"Cox PH Ridge, Barlow weights",750.0,0.743289224952741
+331,"Cox PH Elastic Net, Barlow weights",750.0,0.743289224952741
+332,"Survival Tree, unweighted",750.0,0.8327662255828607
+333,"Survival Tree, random oversampler",750.0,0.8124133585381222
+334,"Survival Tree, SMOTENC",750.0,0.8357592942659106
+335,"Random Survival Forest, unweighted",750.0,0.8241965973534972
+336,"Random Survival Forest, random oversampler",750.0,0.8336798991808444
+337,"Random Survival Forest, SMOTENC",750.0,0.8297416509136736
+338,Unweighted Cox PH,750.0,0.7202574672741737
+339,"Cox PH, Barlow weights",750.0,0.7217762349027266
+340,"Cox PH, Prentice weights",750.0,0.7214146235625949
+341,"Cox PH, Self-Prentice weights",750.0,0.720763723150358
+342,"Cox PH Lasso, Barlow weights",750.0,0.7217762349027266
+343,"Cox PH Ridge, Barlow weights",750.0,0.7217762349027266
+344,"Cox PH Elastic Net, Barlow weights",750.0,0.7217762349027266
+345,"Survival Tree, unweighted",750.0,0.8481232371447168
+346,"Survival Tree, random oversampler",750.0,0.8142040934403703
+347,"Survival Tree, SMOTENC",750.0,0.8191220076661604
+348,"Random Survival Forest, unweighted",750.0,0.8417588775584003
+349,"Random Survival Forest, random oversampler",750.0,0.843277645186953
+350,"Random Survival Forest, SMOTENC",750.0,0.8440731901352426
+351,Unweighted Cox PH,750.0,0.704374248274989
+352,"Cox PH, Barlow weights",750.0,0.704374248274989
+353,"Cox PH, Prentice weights",750.0,0.704374248274989
+354,"Cox PH, Self-Prentice weights",750.0,0.7072228904222321
+355,"Cox PH Lasso, Barlow weights",750.0,0.7042476419573337
+356,"Cox PH Ridge, Barlow weights",750.0,0.704374248274989
+357,"Cox PH Elastic Net, Barlow weights",750.0,0.704374248274989
+358,"Survival Tree, unweighted",750.0,0.8426599987339368
+359,"Survival Tree, random oversampler",750.0,0.8214217889472685
+360,"Survival Tree, SMOTENC",750.0,0.8485788440843198
+361,"Random Survival Forest, unweighted",750.0,0.8718111033740583
+362,"Random Survival Forest, random oversampler",750.0,0.8643413306323986
+363,"Random Survival Forest, SMOTENC",750.0,0.8523770336139773
+364,Unweighted Cox PH,750.0,0.6808745854317652
+365,"Cox PH, Barlow weights",750.0,0.6813659255619703
+366,"Cox PH, Prentice weights",750.0,0.6813045080456946
+367,"Cox PH, Self-Prentice weights",750.0,0.6801989927527331
+368,"Cox PH Lasso, Barlow weights",750.0,0.6813659255619703
+369,"Cox PH Ridge, Barlow weights",750.0,0.6813659255619703
+370,"Cox PH Elastic Net, Barlow weights",750.0,0.6813659255619703
+371,"Survival Tree, unweighted",750.0,0.8457191991155878
+372,"Survival Tree, random oversampler",750.0,0.8242844859353887
+373,"Survival Tree, SMOTENC",750.0,0.8429247021250461
+374,"Random Survival Forest, unweighted",750.0,0.8747082667976906
+375,"Random Survival Forest, random oversampler",750.0,0.8670310772632355
+376,"Random Survival Forest, SMOTENC",750.0,0.8716988085001842
+377,Unweighted Cox PH,750.0,0.6435852133731993
+378,"Cox PH, Barlow weights",750.0,0.6425659146507203
+379,"Cox PH, Prentice weights",750.0,0.6425659146507203
+380,"Cox PH, Self-Prentice weights",750.0,0.6427018211470509
+381,"Cox PH Lasso, Barlow weights",750.0,0.6425659146507203
+382,"Cox PH Ridge, Barlow weights",750.0,0.6425659146507203
+383,"Cox PH Elastic Net, Barlow weights",750.0,0.6425659146507203
+384,"Survival Tree, unweighted",750.0,0.8407855395487904
+385,"Survival Tree, random oversampler",750.0,0.8493136721935308
+386,"Survival Tree, SMOTENC",750.0,0.8394264745854851
+387,"Random Survival Forest, unweighted",750.0,0.8352813264474042
+388,"Random Survival Forest, random oversampler",750.0,0.8638896439249796
+389,"Random Survival Forest, SMOTENC",750.0,0.8652487088882849
+390,Unweighted Cox PH,750.0,0.6895440439245644
+391,"Cox PH, Barlow weights",750.0,0.6899618047266651
+392,"Cox PH, Prentice weights",750.0,0.6899618047266651
+393,"Cox PH, Self-Prentice weights",750.0,0.6910360467892098
+394,"Cox PH Lasso, Barlow weights",750.0,0.6894843638099785
+395,"Cox PH Ridge, Barlow weights",750.0,0.6899618047266651
+396,"Cox PH Elastic Net, Barlow weights",750.0,0.6899618047266651
+397,"Survival Tree, unweighted",750.0,0.8373418476963476
+398,"Survival Tree, random oversampler",750.0,0.8118584387682024
+399,"Survival Tree, SMOTENC",750.0,0.8140964430651707
+400,"Random Survival Forest, unweighted",750.0,0.8240630222010026
+401,"Random Survival Forest, random oversampler",750.0,0.8294939126283123
+402,"Random Survival Forest, SMOTENC",750.0,0.8357603246598233
+403,Unweighted Cox PH,750.0,0.6848415643733943
+404,"Cox PH, Barlow weights",750.0,0.6846131886954039
+405,"Cox PH, Prentice weights",750.0,0.6847273765343991
+406,"Cox PH, Self-Prentice weights",750.0,0.6693120182700543
+407,"Cox PH Lasso, Barlow weights",750.0,0.6846131886954039
+408,"Cox PH Ridge, Barlow weights",750.0,0.6846131886954039
+409,"Cox PH Elastic Net, Barlow weights",750.0,0.6846131886954039
+410,"Survival Tree, unweighted",750.0,0.8114473308592635
+411,"Survival Tree, random oversampler",750.0,0.8312874678846702
+412,"Survival Tree, SMOTENC",750.0,0.7879246360262632
+413,"Random Survival Forest, unweighted",750.0,0.8085069940051385
+414,"Random Survival Forest, random oversampler",750.0,0.8174136454467599
+415,"Random Survival Forest, SMOTENC",750.0,0.8114758778190123
+416,Unweighted Cox PH,750.0,0.750207468879668
+417,"Cox PH, Barlow weights",750.0,0.7481327800829876
+418,"Cox PH, Prentice weights",750.0,0.7480735032602253
+419,"Cox PH, Self-Prentice weights",750.0,0.753171310017783
+420,"Cox PH Lasso, Barlow weights",750.0,0.7469472436277416
+421,"Cox PH Ridge, Barlow weights",750.0,0.7481327800829876
+422,"Cox PH Elastic Net, Barlow weights",750.0,0.7435091879075282
+423,"Survival Tree, unweighted",750.0,0.8543864848844102
+424,"Survival Tree, random oversampler",750.0,0.846058091286307
+425,"Survival Tree, SMOTENC",750.0,0.8322465915826912
+426,"Random Survival Forest, unweighted",750.0,0.8827504445761707
+427,"Random Survival Forest, random oversampler",750.0,0.8795494961470065
+428,"Random Survival Forest, SMOTENC",750.0,0.8782454060462359
+429,Unweighted Cox PH,750.0,0.6619472589411528
+430,"Cox PH, Barlow weights",750.0,0.6606723478494263
+431,"Cox PH, Prentice weights",750.0,0.6609407501845266
+432,"Cox PH, Self-Prentice weights",750.0,0.6610749513520767
+433,"Cox PH Lasso, Barlow weights",750.0,0.6606723478494263
+434,"Cox PH Ridge, Barlow weights",750.0,0.6606723478494263
+435,"Cox PH Elastic Net, Barlow weights",750.0,0.6606723478494263
+436,"Survival Tree, unweighted",750.0,0.8199020331476884
+437,"Survival Tree, random oversampler",750.0,0.8164463530832718
+438,"Survival Tree, SMOTENC",750.0,0.8541904314567537
+439,"Random Survival Forest, unweighted",750.0,0.8677447493793196
+440,"Random Survival Forest, random oversampler",750.0,0.8733811984164263
+441,"Random Survival Forest, SMOTENC",750.0,0.867207944709119
+442,Unweighted Cox PH,750.0,0.7068474024085171
+443,"Cox PH, Barlow weights",750.0,0.7058002210716156
+444,"Cox PH, Prentice weights",750.0,0.7057420443306766
+445,"Cox PH, Self-Prentice weights",750.0,0.7063819884810053
+446,"Cox PH Lasso, Barlow weights",750.0,0.7058002210716156
+447,"Cox PH Ridge, Barlow weights",750.0,0.7058002210716156
+448,"Cox PH Elastic Net, Barlow weights",750.0,0.7058002210716156
+449,"Survival Tree, unweighted",750.0,0.8305020652743034
+450,"Survival Tree, random oversampler",750.0,0.8255279539240212
+451,"Survival Tree, SMOTENC",750.0,0.8361452091453837
+452,"Random Survival Forest, unweighted",750.0,0.8457734597707837
+453,"Random Survival Forest, random oversampler",750.0,0.8551108266914887
+454,"Random Survival Forest, SMOTENC",750.0,0.8403048461225202
+455,Unweighted Cox PH,750.0,0.6670332691778939
+456,"Cox PH, Barlow weights",750.0,0.6652460819356613
+457,"Cox PH, Prentice weights",750.0,0.6652460819356613
+458,"Cox PH, Self-Prentice weights",750.0,0.6655210338190817
+459,"Cox PH Lasso, Barlow weights",750.0,0.6652460819356613
+460,"Cox PH Ridge, Barlow weights",750.0,0.6652460819356613
+461,"Cox PH Elastic Net, Barlow weights",750.0,0.6635963706351389
+462,"Survival Tree, unweighted",750.0,0.8685386307396206
+463,"Survival Tree, random oversampler",750.0,0.8190816607093758
+464,"Survival Tree, SMOTENC",750.0,0.8056777563926313
+465,"Random Survival Forest, unweighted",750.0,0.8423838328292549
+466,"Random Survival Forest, random oversampler",750.0,0.861630464668683
+467,"Random Survival Forest, SMOTENC",750.0,0.8506323893318669
+468,Unweighted Cox PH,750.0,0.7138375502966651
+469,"Cox PH, Barlow weights",750.0,0.7149969310509445
+470,"Cox PH, Prentice weights",750.0,0.7151333287867422
+471,"Cox PH, Self-Prentice weights",750.0,0.7125417718065881
+472,"Cox PH Lasso, Barlow weights",750.0,0.7149969310509445
+473,"Cox PH Ridge, Barlow weights",750.0,0.7149969310509445
+474,"Cox PH Elastic Net, Barlow weights",750.0,0.7149969310509445
+475,"Survival Tree, unweighted",750.0,0.8241492191229626
+476,"Survival Tree, random oversampler",750.0,0.8013366978108163
+477,"Survival Tree, SMOTENC",750.0,0.8259564891222806
+478,"Random Survival Forest, unweighted",750.0,0.850167087226352
+479,"Random Survival Forest, random oversampler",750.0,0.8601923208074745
+480,"Random Survival Forest, SMOTENC",750.0,0.836663711382391
+481,Unweighted Cox PH,750.0,0.6514885102770872
+482,"Cox PH, Barlow weights",750.0,0.6492451342993998
+483,"Cox PH, Prentice weights",750.0,0.6493663978657612
+484,"Cox PH, Self-Prentice weights",750.0,0.6548838901352089
+485,"Cox PH Lasso, Barlow weights",750.0,0.6487600800339538
+486,"Cox PH Ridge, Barlow weights",750.0,0.6492451342993998
+487,"Cox PH Elastic Net, Barlow weights",750.0,0.6454253319590129
+488,"Survival Tree, unweighted",750.0,0.7835445340447462
+489,"Survival Tree, random oversampler",750.0,0.8050688170739101
+490,"Survival Tree, SMOTENC",750.0,0.7858182259140242
+491,"Random Survival Forest, unweighted",750.0,0.8189534954223003
+492,"Random Survival Forest, random oversampler",750.0,0.8212575031831686
+493,"Random Survival Forest, SMOTENC",750.0,0.8258048869217244
+494,Unweighted Cox PH,750.0,0.7092912182385531
+495,"Cox PH, Barlow weights",750.0,0.7080812583582755
+496,"Cox PH, Prentice weights",750.0,0.7081449404572374
+497,"Cox PH, Self-Prentice weights",750.0,0.7092275361395911
+498,"Cox PH Lasso, Barlow weights",750.0,0.7087180793478953
+499,"Cox PH Ridge, Barlow weights",750.0,0.7080812583582755
+500,"Cox PH Elastic Net, Barlow weights",750.0,0.7080812583582755
+501,"Survival Tree, unweighted",750.0,0.8093039546583456
+502,"Survival Tree, random oversampler",750.0,0.8084760873718397
+503,"Survival Tree, SMOTENC",750.0,0.7953257339361905
+504,"Random Survival Forest, unweighted",750.0,0.8430873081576769
+505,"Random Survival Forest, random oversampler",750.0,0.8288862000891549
+506,"Random Survival Forest, SMOTENC",750.0,0.842514169267019
+507,Unweighted Cox PH,750.0,0.6931214000886132
+508,"Cox PH, Barlow weights",750.0,0.6935090828533451
+509,"Cox PH, Prentice weights",750.0,0.6937306158617634
+510,"Cox PH, Self-Prentice weights",750.0,0.6933429330970314
+511,"Cox PH Lasso, Barlow weights",750.0,0.6935090828533451
+512,"Cox PH Ridge, Barlow weights",750.0,0.6935090828533451
+513,"Cox PH Elastic Net, Barlow weights",750.0,0.6935090828533451
+514,"Survival Tree, unweighted",750.0,0.84866526362428
+515,"Survival Tree, random oversampler",750.0,0.8460899424014178
+516,"Survival Tree, SMOTENC",750.0,0.8346256092157731
+517,"Random Survival Forest, unweighted",750.0,0.8577758085954807
+518,"Random Survival Forest, random oversampler",750.0,0.8633141338059371
+519,"Random Survival Forest, SMOTENC",750.0,0.8603234381922906
+520,Unweighted Cox PH,750.0,0.7049389343712253
+521,"Cox PH, Barlow weights",750.0,0.7060126157562743
+522,"Cox PH, Prentice weights",750.0,0.7057441954100121
+523,"Cox PH, Self-Prentice weights",750.0,0.6962152731177024
+524,"Cox PH Lasso, Barlow weights",750.0,0.7060126157562743
+525,"Cox PH Ridge, Barlow weights",750.0,0.7060126157562743
+526,"Cox PH Elastic Net, Barlow weights",750.0,0.7058784055831432
+527,"Survival Tree, unweighted",750.0,0.8213998121057576
+528,"Survival Tree, random oversampler",750.0,0.8083143202254731
+529,"Survival Tree, SMOTENC",750.0,0.8196215273117702
+530,"Random Survival Forest, unweighted",750.0,0.8343846463561938
+531,"Random Survival Forest, random oversampler",750.0,0.8615622064152463
+532,"Random Survival Forest, SMOTENC",750.0,0.8310964971144813
+533,Unweighted Cox PH,750.0,0.6521541175801036
+534,"Cox PH, Barlow weights",750.0,0.6543736839109897
+535,"Cox PH, Prentice weights",750.0,0.6544305958681919
+536,"Cox PH, Self-Prentice weights",750.0,0.6548289795686074
+537,"Cox PH Lasso, Barlow weights",750.0,0.6543736839109897
+538,"Cox PH Ridge, Barlow weights",750.0,0.6543736839109897
+539,"Cox PH Elastic Net, Barlow weights",750.0,0.6543736839109897
+540,"Survival Tree, unweighted",750.0,0.806726993341301
+541,"Survival Tree, random oversampler",750.0,0.8180240168459393
+542,"Survival Tree, SMOTENC",750.0,0.808348984121564
+543,"Random Survival Forest, unweighted",750.0,0.8388253372033464
+544,"Random Survival Forest, random oversampler",750.0,0.837345626316089
+545,"Random Survival Forest, SMOTENC",750.0,0.8327357577827101
+546,Unweighted Cox PH,750.0,0.6163854732627967
+547,"Cox PH, Barlow weights",750.0,0.6185301687160423
+548,"Cox PH, Prentice weights",750.0,0.6186016585644838
+549,"Cox PH, Self-Prentice weights",750.0,0.6169573920503288
+550,"Cox PH Lasso, Barlow weights",750.0,0.6185301687160423
+551,"Cox PH Ridge, Barlow weights",750.0,0.6185301687160423
+552,"Cox PH Elastic Net, Barlow weights",750.0,0.6185301687160423
+553,"Survival Tree, unweighted",750.0,0.8631326851587074
+554,"Survival Tree, random oversampler",750.0,0.8234915641978839
+555,"Survival Tree, SMOTENC",750.0,0.8361095224478124
+556,"Random Survival Forest, unweighted",750.0,0.8635258793251358
+557,"Random Survival Forest, random oversampler",750.0,0.862596511295396
+558,"Random Survival Forest, SMOTENC",750.0,0.8598798970546182
+559,Unweighted Cox PH,750.0,0.6264858841010401
+560,"Cox PH, Barlow weights",750.0,0.6305720653789004
+561,"Cox PH, Prentice weights",750.0,0.6303863298662704
+562,"Cox PH, Self-Prentice weights",750.0,0.6317483902922238
+563,"Cox PH Lasso, Barlow weights",750.0,0.6276002971768202
+564,"Cox PH Ridge, Barlow weights",750.0,0.6305720653789004
+565,"Cox PH Elastic Net, Barlow weights",750.0,0.6243189697870233
+566,"Survival Tree, unweighted",750.0,0.8640106488360575
+567,"Survival Tree, random oversampler",750.0,0.8661775631500743
+568,"Survival Tree, SMOTENC",750.0,0.8621223377909857
+569,"Random Survival Forest, unweighted",750.0,0.8597077761267955
+570,"Random Survival Forest, random oversampler",750.0,0.8703566121842496
+571,"Random Survival Forest, SMOTENC",750.0,0.8633605745418524
+572,Unweighted Cox PH,750.0,0.6995596621670396
+573,"Cox PH, Barlow weights",750.0,0.6997040352270266
+574,"Cox PH, Prentice weights",750.0,0.6997040352270266
+575,"Cox PH, Self-Prentice weights",750.0,0.5115137515339637
+576,"Cox PH Lasso, Barlow weights",750.0,0.6997040352270266
+577,"Cox PH Ridge, Barlow weights",750.0,0.6997040352270266
+578,"Cox PH Elastic Net, Barlow weights",750.0,0.6946509781274814
+579,"Survival Tree, unweighted",750.0,0.79177795423374
+580,"Survival Tree, random oversampler",750.0,0.8431386703241175
+581,"Survival Tree, SMOTENC",750.0,0.8170432397314661
+582,"Random Survival Forest, unweighted",750.0,0.8354868981448061
+583,"Random Survival Forest, random oversampler",750.0,0.8559156861329675
+584,"Random Survival Forest, SMOTENC",750.0,0.8421280589042085
+585,Unweighted Cox PH,750.0,0.6481425551192993
+586,"Cox PH, Barlow weights",750.0,0.6453035336756267
+587,"Cox PH, Prentice weights",750.0,0.6454847478103292
+588,"Cox PH, Self-Prentice weights",750.0,0.6482029598308668
+589,"Cox PH Lasso, Barlow weights",750.0,0.6453035336756267
+590,"Cox PH Ridge, Barlow weights",750.0,0.6453035336756267
+591,"Cox PH Elastic Net, Barlow weights",750.0,0.6453035336756267
+592,"Survival Tree, unweighted",750.0,0.8044699486559952
+593,"Survival Tree, random oversampler",750.0,0.8082150407731803
+594,"Survival Tree, SMOTENC",750.0,0.7907580791301722
+595,"Random Survival Forest, unweighted",750.0,0.8466324373301117
+596,"Random Survival Forest, random oversampler",750.0,0.8521292660827544
+597,"Random Survival Forest, SMOTENC",750.0,0.8426457263666566
+598,Unweighted Cox PH,750.0,0.6529393659587566
+599,"Cox PH, Barlow weights",750.0,0.6530624807633117
+600,"Cox PH, Prentice weights",750.0,0.6530624807633117
+601,"Cox PH, Self-Prentice weights",750.0,0.6515235457063712
+602,"Cox PH Lasso, Barlow weights",750.0,0.6530624807633117
+603,"Cox PH Ridge, Barlow weights",750.0,0.6530624807633117
+604,"Cox PH Elastic Net, Barlow weights",750.0,0.6530624807633117
+605,"Survival Tree, unweighted",750.0,0.8395506309633733
+606,"Survival Tree, random oversampler",750.0,0.8289319790704832
+607,"Survival Tree, SMOTENC",750.0,0.8280086180363189
+608,"Random Survival Forest, unweighted",750.0,0.8286857494613727
+609,"Random Survival Forest, random oversampler",750.0,0.8291166512773162
+610,"Random Survival Forest, SMOTENC",750.0,0.8386580486303478
+611,Unweighted Cox PH,750.0,0.7064452190554302
+612,"Cox PH, Barlow weights",750.0,0.7033012097600985
+613,"Cox PH, Prentice weights",750.0,0.7033012097600985
+614,"Cox PH, Self-Prentice weights",750.0,0.7092474882099652
+615,"Cox PH Lasso, Barlow weights",750.0,0.703232861731939
+616,"Cox PH Ridge, Barlow weights",750.0,0.7033012097600985
+617,"Cox PH Elastic Net, Barlow weights",750.0,0.7033012097600985
+618,"Survival Tree, unweighted",750.0,0.8533251315699542
+619,"Survival Tree, random oversampler",750.0,0.8342560317134851
+620,"Survival Tree, SMOTENC",750.0,0.8287881894607341
+621,"Random Survival Forest, unweighted",750.0,0.8713348369899528
+622,"Random Survival Forest, random oversampler",750.0,0.874000410088169
+623,"Random Survival Forest, SMOTENC",750.0,0.8711297929054747
+624,Unweighted Cox PH,750.0,0.6703109952982496
+625,"Cox PH, Barlow weights",750.0,0.6708208236560358
+626,"Cox PH, Prentice weights",750.0,0.670650880870107
+627,"Cox PH, Self-Prentice weights",750.0,0.6700277573217017
+628,"Cox PH Lasso, Barlow weights",750.0,0.6708208236560358
+629,"Cox PH Ridge, Barlow weights",750.0,0.6708208236560358
+630,"Cox PH Elastic Net, Barlow weights",750.0,0.6708208236560358
+631,"Survival Tree, unweighted",750.0,0.868379312298193
+632,"Survival Tree, random oversampler",750.0,0.8721747011839347
+633,"Survival Tree, SMOTENC",750.0,0.837959553616949
+634,"Random Survival Forest, unweighted",750.0,0.8643856568288676
+635,"Random Survival Forest, random oversampler",750.0,0.860703563133745
+636,"Random Survival Forest, SMOTENC",750.0,0.8664249702600124
+637,Unweighted Cox PH,750.0,0.6771525253791202
+638,"Cox PH, Barlow weights",750.0,0.6760245644817646
+639,"Cox PH, Prentice weights",750.0,0.6760245644817646
+640,"Cox PH, Self-Prentice weights",750.0,0.6767138739190375
+641,"Cox PH Lasso, Barlow weights",750.0,0.6760245644817646
+642,"Cox PH Ridge, Barlow weights",750.0,0.6760245644817646
+643,"Cox PH Elastic Net, Barlow weights",750.0,0.6760245644817646
+644,"Survival Tree, unweighted",750.0,0.8196829176588545
+645,"Survival Tree, random oversampler",750.0,0.8013848853239754
+646,"Survival Tree, SMOTENC",750.0,0.8177089860884823
+647,"Random Survival Forest, unweighted",750.0,0.8165810251911267
+648,"Random Survival Forest, random oversampler",750.0,0.8427747838074947
+649,"Random Survival Forest, SMOTENC",750.0,0.8152650708108785
+650,Unweighted Cox PH,750.0,0.6753976797033847
+651,"Cox PH, Barlow weights",750.0,0.6740820476019614
+652,"Cox PH, Prentice weights",750.0,0.6741418490611171
+653,"Cox PH, Self-Prentice weights",750.0,0.6783877526611649
+654,"Cox PH Lasso, Barlow weights",750.0,0.6740820476019614
+655,"Cox PH Ridge, Barlow weights",750.0,0.6740820476019614
+656,"Cox PH Elastic Net, Barlow weights",750.0,0.6740820476019614
+657,"Survival Tree, unweighted",750.0,0.8458019375672766
+658,"Survival Tree, random oversampler",750.0,0.8043296256428657
+659,"Survival Tree, SMOTENC",750.0,0.8345293625164454
+660,"Random Survival Forest, unweighted",750.0,0.8460112426743213
+661,"Random Survival Forest, random oversampler",750.0,0.8385360602798708
+662,"Random Survival Forest, SMOTENC",750.0,0.8464298528884104
+663,Unweighted Cox PH,750.0,0.6587316581648719
+664,"Cox PH, Barlow weights",750.0,0.6590465394546257
+665,"Cox PH, Prentice weights",750.0,0.6589205869387241
+666,"Cox PH, Self-Prentice weights",750.0,0.6589835631966748
+667,"Cox PH Lasso, Barlow weights",750.0,0.6590465394546257
+668,"Cox PH Ridge, Barlow weights",750.0,0.6590465394546257
+669,"Cox PH Elastic Net, Barlow weights",750.0,0.6590465394546257
+670,"Survival Tree, unweighted",750.0,0.8287360665029284
+671,"Survival Tree, random oversampler",750.0,0.8126771207254865
+672,"Survival Tree, SMOTENC",750.0,0.8363876818439449
+673,"Random Survival Forest, unweighted",750.0,0.8415517349959065
+674,"Random Survival Forest, random oversampler",750.0,0.8504313873669627
+675,"Random Survival Forest, SMOTENC",750.0,0.8424334026072171
+676,Unweighted Cox PH,750.0,0.7076913744995754
+677,"Cox PH, Barlow weights",750.0,0.7099357030207448
+678,"Cox PH, Prentice weights",750.0,0.7100570180759432
+679,"Cox PH, Self-Prentice weights",750.0,0.707570059444377
+680,"Cox PH Lasso, Barlow weights",750.0,0.7099357030207448
+681,"Cox PH Ridge, Barlow weights",750.0,0.7099357030207448
+682,"Cox PH Elastic Net, Barlow weights",750.0,0.7099357030207448
+683,"Survival Tree, unweighted",750.0,0.7972522139997573
+684,"Survival Tree, random oversampler",750.0,0.7969185975979619
+685,"Survival Tree, SMOTENC",750.0,0.7917323789882325
+686,"Random Survival Forest, unweighted",750.0,0.7718063811719035
+687,"Random Survival Forest, random oversampler",750.0,0.7947349266043916
+688,"Random Survival Forest, SMOTENC",750.0,0.7843624893849327
+689,Unweighted Cox PH,750.0,0.699749443207127
+690,"Cox PH, Barlow weights",750.0,0.6993318485523385
+691,"Cox PH, Prentice weights",750.0,0.6993318485523385
+692,"Cox PH, Self-Prentice weights",750.0,0.6993318485523385
+693,"Cox PH Lasso, Barlow weights",750.0,0.6996798440979956
+694,"Cox PH Ridge, Barlow weights",750.0,0.6993318485523385
+695,"Cox PH Elastic Net, Barlow weights",750.0,0.6993318485523385
+696,"Survival Tree, unweighted",750.0,0.8120476057906458
+697,"Survival Tree, random oversampler",750.0,0.8012945434298441
+698,"Survival Tree, SMOTENC",750.0,0.8406180400890868
+699,"Random Survival Forest, unweighted",750.0,0.8521714922048997
+700,"Random Survival Forest, random oversampler",750.0,0.8544334632516704
+701,"Random Survival Forest, SMOTENC",750.0,0.8415924276169265
+702,Unweighted Cox PH,750.0,0.7011410092134969
+703,"Cox PH, Barlow weights",750.0,0.6979681493684788
+704,"Cox PH, Prentice weights",750.0,0.69802916590396
+705,"Cox PH, Self-Prentice weights",750.0,0.7061443651229483
+706,"Cox PH Lasso, Barlow weights",750.0,0.6979681493684788
+707,"Cox PH Ridge, Barlow weights",750.0,0.6979681493684788
+708,"Cox PH Elastic Net, Barlow weights",750.0,0.6979681493684788
+709,"Survival Tree, unweighted",750.0,0.8213740923790347
+710,"Survival Tree, random oversampler",750.0,0.8225639148209165
+711,"Survival Tree, SMOTENC",750.0,0.8426383549942035
+712,"Random Survival Forest, unweighted",750.0,0.8432485203490145
+713,"Random Survival Forest, random oversampler",750.0,0.8464213801940326
+714,"Random Survival Forest, SMOTENC",750.0,0.8511806699615596
+715,Unweighted Cox PH,750.0,0.6553094832481544
+716,"Cox PH, Barlow weights",750.0,0.6553725787115906
+717,"Cox PH, Prentice weights",750.0,0.6554356741750268
+718,"Cox PH, Self-Prentice weights",750.0,0.6520916146129093
+719,"Cox PH Lasso, Barlow weights",750.0,0.655498769638463
+720,"Cox PH Ridge, Barlow weights",750.0,0.6553725787115906
+721,"Cox PH Elastic Net, Barlow weights",750.0,0.6553725787115906
+722,"Survival Tree, unweighted",750.0,0.8026058426399142
+723,"Survival Tree, random oversampler",750.0,0.8101772982522557
+724,"Survival Tree, SMOTENC",750.0,0.8430184869707869
+725,"Random Survival Forest, unweighted",750.0,0.8232380591835448
+726,"Random Survival Forest, random oversampler",750.0,0.8283487917218751
+727,"Random Survival Forest, SMOTENC",750.0,0.8322291627232002
+728,Unweighted Cox PH,750.0,0.6113530560144166
+729,"Cox PH, Barlow weights",750.0,0.6120288331581318
+730,"Cox PH, Prentice weights",750.0,0.6120288331581318
+731,"Cox PH, Self-Prentice weights",750.0,0.6072233068028232
+732,"Cox PH Lasso, Barlow weights",750.0,0.6120288331581318
+733,"Cox PH Ridge, Barlow weights",750.0,0.6110527106172098
+734,"Cox PH Elastic Net, Barlow weights",750.0,0.6120288331581318
+735,"Survival Tree, unweighted",750.0,0.889735696050458
+736,"Survival Tree, random oversampler",750.0,0.8582369725183961
+737,"Survival Tree, SMOTENC",750.0,0.8911998798618411
+738,"Random Survival Forest, unweighted",750.0,0.8879711668418682
+739,"Random Survival Forest, random oversampler",750.0,0.897432046853882
+740,"Random Survival Forest, SMOTENC",750.0,0.8957050608199429
+741,Unweighted Cox PH,750.0,0.6987503323584153
+742,"Cox PH, Barlow weights",750.0,0.6992821058229194
+743,"Cox PH, Prentice weights",750.0,0.6990162190906674
+744,"Cox PH, Self-Prentice weights",750.0,0.6978197287955331
+745,"Cox PH Lasso, Barlow weights",750.0,0.6992821058229194
+746,"Cox PH Ridge, Barlow weights",750.0,0.6992821058229194
+747,"Cox PH Elastic Net, Barlow weights",750.0,0.6992821058229194
+748,"Survival Tree, unweighted",750.0,0.824315341664451
+749,"Survival Tree, random oversampler",750.0,0.8123836745546398
+750,"Survival Tree, SMOTENC",750.0,0.8202938048391385
+751,"Random Survival Forest, unweighted",750.0,0.8306633873969689
+752,"Random Survival Forest, random oversampler",750.0,0.8382411592661526
+753,"Random Survival Forest, SMOTENC",750.0,0.8426282903483117
+754,Unweighted Cox PH,750.0,0.6292834890965732
+755,"Cox PH, Barlow weights",750.0,0.6290710846785613
+756,"Cox PH, Prentice weights",750.0,0.6290710846785613
+757,"Cox PH, Self-Prentice weights",750.0,0.6291418861512319
+758,"Cox PH Lasso, Barlow weights",750.0,0.6290710846785613
+759,"Cox PH Ridge, Barlow weights",750.0,0.6290710846785613
+760,"Cox PH Elastic Net, Barlow weights",750.0,0.6290710846785613
+761,"Survival Tree, unweighted",750.0,0.8212262815066553
+762,"Survival Tree, random oversampler",750.0,0.8300056641178136
+763,"Survival Tree, SMOTENC",750.0,0.8154205607476636
+764,"Random Survival Forest, unweighted",750.0,0.8535117530444634
+765,"Random Survival Forest, random oversampler",750.0,0.8739733786462759
+766,"Random Survival Forest, SMOTENC",750.0,0.8572642310960068
+767,Unweighted Cox PH,750.0,0.6859211002533478
+768,"Cox PH, Barlow weights",750.0,0.6865725660513934
+769,"Cox PH, Prentice weights",750.0,0.6867173362287369
+770,"Cox PH, Self-Prentice weights",750.0,0.6871516467607672
+771,"Cox PH Lasso, Barlow weights",750.0,0.6865725660513934
+772,"Cox PH Ridge, Barlow weights",750.0,0.6865725660513934
+773,"Cox PH Elastic Net, Barlow weights",750.0,0.6865725660513934
+774,"Survival Tree, unweighted",750.0,0.8538545059717698
+775,"Survival Tree, random oversampler",750.0,0.8576185305827
+776,"Survival Tree, SMOTENC",750.0,0.8200868621064061
+777,"Random Survival Forest, unweighted",750.0,0.8677524429967427
+778,"Random Survival Forest, random oversampler",750.0,0.8733984799131379
+779,"Random Survival Forest, SMOTENC",750.0,0.8488599348534202
+780,Unweighted Cox PH,750.0,0.6362285559908145
+781,"Cox PH, Barlow weights",750.0,0.6377819802782656
+782,"Cox PH, Prentice weights",750.0,0.6377144400918546
+783,"Cox PH, Self-Prentice weights",750.0,0.6362960961772255
+784,"Cox PH Lasso, Barlow weights",750.0,0.6377819802782656
+785,"Cox PH Ridge, Barlow weights",750.0,0.634269890584898
+786,"Cox PH Elastic Net, Barlow weights",750.0,0.6377819802782656
+787,"Survival Tree, unweighted",750.0,0.7963663379710928
+788,"Survival Tree, random oversampler",750.0,0.7912332838038633
+789,"Survival Tree, SMOTENC",750.0,0.7878225043901121
+790,"Random Survival Forest, unweighted",750.0,0.8401323787653654
+791,"Random Survival Forest, random oversampler",750.0,0.8367215993516142
+792,"Random Survival Forest, SMOTENC",750.0,0.8581993786302851
+793,Unweighted Cox PH,750.0,0.660108647775657
+794,"Cox PH, Barlow weights",750.0,0.6595213625018352
+795,"Cox PH, Prentice weights",750.0,0.6595213625018352
+796,"Cox PH, Self-Prentice weights",750.0,0.659594773161063
+797,"Cox PH Lasso, Barlow weights",750.0,0.6595213625018352
+798,"Cox PH Ridge, Barlow weights",750.0,0.6595213625018352
+799,"Cox PH Elastic Net, Barlow weights",750.0,0.6595213625018352
+800,"Survival Tree, unweighted",750.0,0.8208779914843636
+801,"Survival Tree, random oversampler",750.0,0.8294670386140067
+802,"Survival Tree, SMOTENC",750.0,0.8195198942886507
+803,"Random Survival Forest, unweighted",750.0,0.8371017471736896
+804,"Random Survival Forest, random oversampler",750.0,0.8502422551754515
+805,"Random Survival Forest, SMOTENC",750.0,0.8322566436646601
+806,Unweighted Cox PH,750.0,0.6484736355226642
+807,"Cox PH, Barlow weights",750.0,0.6603673846967094
+808,"Cox PH, Prentice weights",750.0,0.6599048500066076
+809,"Cox PH, Self-Prentice weights",750.0,0.6628122109158187
+810,"Cox PH Lasso, Barlow weights",750.0,0.6557420377956918
+811,"Cox PH Ridge, Barlow weights",750.0,0.6603673846967094
+812,"Cox PH Elastic Net, Barlow weights",750.0,0.6603673846967094
+813,"Survival Tree, unweighted",750.0,0.8322981366459627
+814,"Survival Tree, random oversampler",750.0,0.8229813664596274
+815,"Survival Tree, SMOTENC",750.0,0.848420774415224
+816,"Random Survival Forest, unweighted",750.0,0.8139289018104929
+817,"Random Survival Forest, random oversampler",750.0,0.8126073741244879
+818,"Random Survival Forest, SMOTENC",750.0,0.8162415752610017
+819,Unweighted Cox PH,750.0,0.6794059159830972
+820,"Cox PH, Barlow weights",750.0,0.6804001988565747
+821,"Cox PH, Prentice weights",750.0,0.6804001988565747
+822,"Cox PH, Self-Prentice weights",750.0,0.6793437733035048
+823,"Cox PH Lasso, Barlow weights",750.0,0.6804001988565747
+824,"Cox PH Ridge, Barlow weights",750.0,0.6804001988565747
+825,"Cox PH Elastic Net, Barlow weights",750.0,0.6804001988565747
+826,"Survival Tree, unweighted",750.0,0.7847377578921203
+827,"Survival Tree, random oversampler",750.0,0.773117076808352
+828,"Survival Tree, SMOTENC",750.0,0.8004287844891872
+829,"Random Survival Forest, unweighted",750.0,0.8113348247576435
+830,"Random Survival Forest, random oversampler",750.0,0.8170519512801392
+831,"Random Survival Forest, SMOTENC",750.0,0.8303504847129008
+832,Unweighted Cox PH,750.0,0.6434725770990553
+833,"Cox PH, Barlow weights",750.0,0.6432943133876047
+834,"Cox PH, Prentice weights",750.0,0.6432348921504546
+835,"Cox PH, Self-Prentice weights",750.0,0.6418087824588508
+836,"Cox PH Lasso, Barlow weights",750.0,0.6431754709133044
+837,"Cox PH Ridge, Barlow weights",750.0,0.6432943133876047
+838,"Cox PH Elastic Net, Barlow weights",750.0,0.6432943133876047
+839,"Survival Tree, unweighted",750.0,0.7963634202864104
+840,"Survival Tree, random oversampler",750.0,0.7942539663675797
+841,"Survival Tree, SMOTENC",750.0,0.8016519103927744
+842,"Random Survival Forest, unweighted",750.0,0.7931546734803019
+843,"Random Survival Forest, random oversampler",750.0,0.8086339057579178
+844,"Random Survival Forest, SMOTENC",750.0,0.7961257353378097
+845,Unweighted Cox PH,750.0,0.7178936055883933
+846,"Cox PH, Barlow weights",750.0,0.717833900531375
+847,"Cox PH, Prentice weights",750.0,0.7177741954743567
+848,"Cox PH, Self-Prentice weights",750.0,0.7128186757418353
+849,"Cox PH Lasso, Barlow weights",750.0,0.7172368499611917
+850,"Cox PH Ridge, Barlow weights",750.0,0.717833900531375
+851,"Cox PH Elastic Net, Barlow weights",750.0,0.7121619201146338
+852,"Survival Tree, unweighted",750.0,0.740850200011941
+853,"Survival Tree, random oversampler",750.0,0.7368798137202222
+854,"Survival Tree, SMOTENC",750.0,0.7557764642665233
+855,"Random Survival Forest, unweighted",750.0,0.7531792942862261
+856,"Random Survival Forest, random oversampler",750.0,0.7519851931458594
+857,"Random Survival Forest, SMOTENC",750.0,0.7618962326109021
+858,Unweighted Cox PH,750.0,0.7682648401826484
+859,"Cox PH, Barlow weights",750.0,0.7693350456621004
+860,"Cox PH, Prentice weights",750.0,0.769406392694064
+861,"Cox PH, Self-Prentice weights",750.0,0.7698344748858448
+862,"Cox PH Lasso, Barlow weights",750.0,0.7693350456621004
+863,"Cox PH Ridge, Barlow weights",750.0,0.7693350456621004
+864,"Cox PH Elastic Net, Barlow weights",750.0,0.7693350456621004
+865,"Survival Tree, unweighted",750.0,0.8520262557077626
+866,"Survival Tree, random oversampler",750.0,0.8260559360730594
+867,"Survival Tree, SMOTENC",750.0,0.8370433789954338
+868,"Random Survival Forest, unweighted",750.0,0.8757848173515982
+869,"Random Survival Forest, random oversampler",750.0,0.8769263698630136
+870,"Random Survival Forest, SMOTENC",750.0,0.8690068493150684
+871,Unweighted Cox PH,750.0,0.6998055735580039
+872,"Cox PH, Barlow weights",750.0,0.6994167206740116
+873,"Cox PH, Prentice weights",750.0,0.6994815294880103
+874,"Cox PH, Self-Prentice weights",750.0,0.6992871030460143
+875,"Cox PH Lasso, Barlow weights",750.0,0.6994167206740116
+876,"Cox PH Ridge, Barlow weights",750.0,0.6994167206740116
+877,"Cox PH Elastic Net, Barlow weights",750.0,0.6994167206740116
+878,"Survival Tree, unweighted",750.0,0.8067401166558652
+879,"Survival Tree, random oversampler",750.0,0.8444912508101102
+880,"Survival Tree, SMOTENC",750.0,0.8006156837329876
+881,"Random Survival Forest, unweighted",750.0,0.8248217757615036
+882,"Random Survival Forest, random oversampler",750.0,0.829747245625405
+883,"Random Survival Forest, SMOTENC",750.0,0.8171095268956579
+884,Unweighted Cox PH,750.0,0.6027829672099465
+885,"Cox PH, Barlow weights",750.0,0.6042002190298267
+886,"Cox PH, Prentice weights",750.0,0.604264639567094
+887,"Cox PH, Self-Prentice weights",750.0,0.5924756812471816
+888,"Cox PH Lasso, Barlow weights",750.0,0.604264639567094
+889,"Cox PH Ridge, Barlow weights",750.0,0.6042002190298267
+890,"Cox PH Elastic Net, Barlow weights",750.0,0.6042002190298267
+891,"Survival Tree, unweighted",750.0,0.8537653804032725
+892,"Survival Tree, random oversampler",750.0,0.8256458158861045
+893,"Survival Tree, SMOTENC",750.0,0.8564710429684984
+894,"Random Survival Forest, unweighted",750.0,0.8171100946981897
+895,"Random Survival Forest, random oversampler",750.0,0.8237454100367197
+896,"Random Survival Forest, SMOTENC",750.0,0.8221348966050377
+897,Unweighted Cox PH,750.0,0.6485449312440038
+898,"Cox PH, Barlow weights",750.0,0.6493763991045731
+899,"Cox PH, Prentice weights",750.0,0.6494403581707707
+900,"Cox PH, Self-Prentice weights",750.0,0.6498880716341542
+901,"Cox PH Lasso, Barlow weights",750.0,0.6493763991045731
+902,"Cox PH Ridge, Barlow weights",750.0,0.6493763991045731
+903,"Cox PH Elastic Net, Barlow weights",750.0,0.6493763991045731
+904,"Survival Tree, unweighted",750.0,0.8224496322353694
+905,"Survival Tree, random oversampler",750.0,0.7787655900223857
+906,"Survival Tree, SMOTENC",750.0,0.8028141989126959
+907,"Random Survival Forest, unweighted",750.0,0.803133994243684
+908,"Random Survival Forest, random oversampler",750.0,0.8140070354972817
+909,"Random Survival Forest, SMOTENC",750.0,0.8161176846818037
+910,Unweighted Cox PH,750.0,0.6547415853075715
+911,"Cox PH, Barlow weights",750.0,0.6546733119410119
+912,"Cox PH, Prentice weights",750.0,0.6548098586741312
+913,"Cox PH, Self-Prentice weights",750.0,0.6539905782754147
+914,"Cox PH Lasso, Barlow weights",750.0,0.6546733119410119
+915,"Cox PH Ridge, Barlow weights",750.0,0.6546733119410119
+916,"Cox PH Elastic Net, Barlow weights",750.0,0.6546733119410119
+917,"Survival Tree, unweighted",750.0,0.8717826176008739
+918,"Survival Tree, random oversampler",750.0,0.8470335222229808
+919,"Survival Tree, SMOTENC",750.0,0.8353587765412712
+920,"Random Survival Forest, unweighted",750.0,0.8892605994401583
+921,"Random Survival Forest, random oversampler",750.0,0.8838670034819417
+922,"Random Survival Forest, SMOTENC",750.0,0.8919915341025466
+923,Unweighted Cox PH,750.0,0.7178750417641163
+924,"Cox PH, Barlow weights",750.0,0.7178750417641163
+925,"Cox PH, Prentice weights",750.0,0.7176077514199799
+926,"Cox PH, Self-Prentice weights",750.0,0.7178082191780822
+927,"Cox PH Lasso, Barlow weights",750.0,0.7169395255596391
+928,"Cox PH Ridge, Barlow weights",750.0,0.7178750417641163
+929,"Cox PH Elastic Net, Barlow weights",750.0,0.7178750417641163
+930,"Survival Tree, unweighted",750.0,0.8326094219846308
+931,"Survival Tree, random oversampler",750.0,0.7975609756097561
+932,"Survival Tree, SMOTENC",750.0,0.799198128967591
+933,"Random Survival Forest, unweighted",750.0,0.843701971266288
+934,"Random Survival Forest, random oversampler",750.0,0.8618777146675576
+935,"Random Survival Forest, SMOTENC",750.0,0.8435015035081858
+936,Unweighted Cox PH,750.0,0.6794994040524434
+937,"Cox PH, Barlow weights",750.0,0.6793802145411204
+938,"Cox PH, Prentice weights",750.0,0.6793802145411204
+939,"Cox PH, Self-Prentice weights",750.0,0.6780691299165673
+940,"Cox PH Lasso, Barlow weights",750.0,0.6793802145411204
+941,"Cox PH Ridge, Barlow weights",750.0,0.6793802145411204
+942,"Cox PH Elastic Net, Barlow weights",750.0,0.6793802145411204
+943,"Survival Tree, unweighted",750.0,0.8321215733015495
+944,"Survival Tree, random oversampler",750.0,0.8450536352800954
+945,"Survival Tree, SMOTENC",750.0,0.8025029797377831
+946,"Random Survival Forest, unweighted",750.0,0.8443384982121573
+947,"Random Survival Forest, random oversampler",750.0,0.8500595947556615
+948,"Random Survival Forest, SMOTENC",750.0,0.8335518474374255
+949,Unweighted Cox PH,750.0,0.6347662187633003
+950,"Cox PH, Barlow weights",750.0,0.6336717942481912
+951,"Cox PH, Prentice weights",750.0,0.6337933969720921
+952,"Cox PH, Self-Prentice weights",750.0,0.6370766705174196
+953,"Cox PH Lasso, Barlow weights",750.0,0.6336717942481912
+954,"Cox PH Ridge, Barlow weights",750.0,0.6336717942481912
+955,"Cox PH Elastic Net, Barlow weights",750.0,0.6336717942481912
+956,"Survival Tree, unweighted",750.0,0.845138931112057
+957,"Survival Tree, random oversampler",750.0,0.8364443363531343
+958,"Survival Tree, SMOTENC",750.0,0.843831701830121
+959,"Random Survival Forest, unweighted",750.0,0.8354107131999757
+960,"Random Survival Forest, random oversampler",750.0,0.8396060071745607
+961,"Random Survival Forest, SMOTENC",750.0,0.8385723840214021
+962,Unweighted Cox PH,750.0,0.6827623254148263
+963,"Cox PH, Barlow weights",750.0,0.6849707532529545
+964,"Cox PH, Prentice weights",750.0,0.6849110660140861
+965,"Cox PH, Self-Prentice weights",750.0,0.6841351319087979
+966,"Cox PH Lasso, Barlow weights",750.0,0.6849707532529545
+967,"Cox PH Ridge, Barlow weights",750.0,0.6849707532529545
+968,"Cox PH Elastic Net, Barlow weights",750.0,0.6849707532529545
+969,"Survival Tree, unweighted",750.0,0.8008833711352513
+970,"Survival Tree, random oversampler",750.0,0.7906470096693327
+971,"Survival Tree, SMOTENC",750.0,0.7788289363734033
+972,"Random Survival Forest, unweighted",750.0,0.8081652142771876
+973,"Random Survival Forest, random oversampler",750.0,0.8129998806255223
+974,"Random Survival Forest, SMOTENC",750.0,0.8204607854840635
+975,Unweighted Cox PH,750.0,0.7010366530914476
+976,"Cox PH, Barlow weights",750.0,0.7002344810563988
+977,"Cox PH, Prentice weights",750.0,0.700357892138714
+978,"Cox PH, Self-Prentice weights",750.0,0.7006664198445021
+979,"Cox PH Lasso, Barlow weights",750.0,0.7002344810563988
+980,"Cox PH Ridge, Barlow weights",750.0,0.7002344810563988
+981,"Cox PH Elastic Net, Barlow weights",750.0,0.7002344810563988
+982,"Survival Tree, unweighted",750.0,0.8522769344687153
+983,"Survival Tree, random oversampler",750.0,0.8061520424534123
+984,"Survival Tree, SMOTENC",750.0,0.8299703813402444
+985,"Random Survival Forest, unweighted",750.0,0.8587560162902629
+986,"Random Survival Forest, random oversampler",750.0,0.8670245588053808
+987,"Random Survival Forest, SMOTENC",750.0,0.8571516722201654
+988,Unweighted Cox PH,750.0,0.6300115281157935
+989,"Cox PH, Barlow weights",750.0,0.6318688356603048
+990,"Cox PH, Prentice weights",750.0,0.6317407454848213
+991,"Cox PH, Self-Prentice weights",750.0,0.6299474830280517
+992,"Cox PH Lasso, Barlow weights",750.0,0.6318688356603048
+993,"Cox PH Ridge, Barlow weights",750.0,0.6318688356603048
+994,"Cox PH Elastic Net, Barlow weights",750.0,0.6294991674138594
+995,"Survival Tree, unweighted",750.0,0.8142692455488664
+996,"Survival Tree, random oversampler",750.0,0.7869860381708723
+997,"Survival Tree, SMOTENC",750.0,0.8044383245805047
+998,"Random Survival Forest, unweighted",750.0,0.8388625592417062
+999,"Random Survival Forest, random oversampler",750.0,0.8370692967849366
+1000,"Random Survival Forest, SMOTENC",750.0,0.8474446009991033
+1001,Unweighted Cox PH,750.0,0.660228802153432
+1002,"Cox PH, Barlow weights",750.0,0.6605652759084791
+1003,"Cox PH, Prentice weights",750.0,0.6605652759084791
+1004,"Cox PH, Self-Prentice weights",750.0,0.6604979811574697
+1005,"Cox PH Lasso, Barlow weights",750.0,0.6605652759084791
+1006,"Cox PH Ridge, Barlow weights",750.0,0.6605652759084791
+1007,"Cox PH Elastic Net, Barlow weights",750.0,0.6605652759084791
+1008,"Survival Tree, unweighted",750.0,0.7908479138627187
+1009,"Survival Tree, random oversampler",750.0,0.7369111709286675
+1010,"Survival Tree, SMOTENC",750.0,0.7861709286675639
+1011,"Random Survival Forest, unweighted",750.0,0.756864064602961
+1012,"Random Survival Forest, random oversampler",750.0,0.7685060565275909
+1013,"Random Survival Forest, SMOTENC",750.0,0.7783983849259758
+1014,Unweighted Cox PH,750.0,0.6802787352015586
+1015,"Cox PH, Barlow weights",750.0,0.6810280233777911
+1016,"Cox PH, Prentice weights",750.0,0.6808781657425446
+1017,"Cox PH, Self-Prentice weights",750.0,0.6835006743593586
+1018,"Cox PH Lasso, Barlow weights",750.0,0.6810280233777911
+1019,"Cox PH Ridge, Barlow weights",750.0,0.6810280233777911
+1020,"Cox PH Elastic Net, Barlow weights",750.0,0.6810280233777911
+1021,"Survival Tree, unweighted",750.0,0.8625056196613218
+1022,"Survival Tree, random oversampler",750.0,0.8306983365802487
+1023,"Survival Tree, SMOTENC",750.0,0.8140641390678856
+1024,"Random Survival Forest, unweighted",750.0,0.8595833957740147
+1025,"Random Survival Forest, random oversampler",750.0,0.8634047654728009
+1026,"Random Survival Forest, SMOTENC",750.0,0.8604825415854938
+1027,Unweighted Cox PH,750.0,0.6301912483753171
+1028,"Cox PH, Barlow weights",750.0,0.6301912483753171
+1029,"Cox PH, Prentice weights",750.0,0.6301912483753171
+1030,"Cox PH, Self-Prentice weights",750.0,0.6313053165810485
+1031,"Cox PH Lasso, Barlow weights",750.0,0.6301912483753171
+1032,"Cox PH Ridge, Barlow weights",750.0,0.6301912483753171
+1033,"Cox PH Elastic Net, Barlow weights",750.0,0.6301912483753171
+1034,"Survival Tree, unweighted",750.0,0.8177570093457944
+1035,"Survival Tree, random oversampler",750.0,0.8183449897877081
+1036,"Survival Tree, SMOTENC",750.0,0.8277217305192796
+1037,"Random Survival Forest, unweighted",750.0,0.7836850900538467
+1038,"Random Survival Forest, random oversampler",750.0,0.7968372841492851
+1039,"Random Survival Forest, SMOTENC",750.0,0.8054403664046543
+1040,Unweighted Cox PH,750.0,0.7335552749397314
+1041,"Cox PH, Barlow weights",750.0,0.7322925037309149
+1042,"Cox PH, Prentice weights",750.0,0.7322351050396051
+1043,"Cox PH, Self-Prentice weights",750.0,0.734760647457238
+1044,"Cox PH Lasso, Barlow weights",750.0,0.7330960854092526
+1045,"Cox PH Ridge, Barlow weights",750.0,0.7322925037309149
+1046,"Cox PH Elastic Net, Barlow weights",750.0,0.7322925037309149
+1047,"Survival Tree, unweighted",750.0,0.8713121340833428
+1048,"Survival Tree, random oversampler",750.0,0.8671507289633796
+1049,"Survival Tree, SMOTENC",750.0,0.8514234875444839
+1050,"Random Survival Forest, unweighted",750.0,0.8650843760762255
+1051,"Random Survival Forest, random oversampler",750.0,0.8665767420502812
+1052,"Random Survival Forest, SMOTENC",750.0,0.8594019056365515
+1053,Unweighted Cox PH,750.0,0.5815848441637808
+1054,"Cox PH, Barlow weights",750.0,0.5817206491478237
+1055,"Cox PH, Prentice weights",750.0,0.5816527466558022
+1056,"Cox PH, Self-Prentice weights",750.0,0.5820601616079311
+1057,"Cox PH Lasso, Barlow weights",750.0,0.5820601616079311
+1058,"Cox PH Ridge, Barlow weights",750.0,0.5817206491478237
+1059,"Cox PH Elastic Net, Barlow weights",750.0,0.5817206491478237
+1060,"Survival Tree, unweighted",750.0,0.8273579140354451
+1061,"Survival Tree, random oversampler",750.0,0.7841719291097984
+1062,"Survival Tree, SMOTENC",750.0,0.8042371155021389
+1063,"Random Survival Forest, unweighted",750.0,0.7801996333265431
+1064,"Random Survival Forest, random oversampler",750.0,0.7811842194608543
+1065,"Random Survival Forest, SMOTENC",750.0,0.7844774903238949
+1066,Unweighted Cox PH,750.0,0.6111957349581112
+1067,"Cox PH, Barlow weights",750.0,0.6108910891089109
+1068,"Cox PH, Prentice weights",750.0,0.6108149276466108
+1069,"Cox PH, Self-Prentice weights",750.0,0.6102817974105103
+1070,"Cox PH Lasso, Barlow weights",750.0,0.6108910891089109
+1071,"Cox PH Ridge, Barlow weights",750.0,0.6108910891089109
+1072,"Cox PH Elastic Net, Barlow weights",750.0,0.6108910891089109
+1073,"Survival Tree, unweighted",750.0,0.8274942878903275
+1074,"Survival Tree, random oversampler",750.0,0.775932977913176
+1075,"Survival Tree, SMOTENC",750.0,0.7919268849961919
+1076,"Random Survival Forest, unweighted",750.0,0.8026656511805027
+1077,"Random Survival Forest, random oversampler",750.0,0.8265803503427266
+1078,"Random Survival Forest, SMOTENC",750.0,0.8037319116527037
+1079,Unweighted Cox PH,750.0,0.726833253898005
+1080,"Cox PH, Barlow weights",750.0,0.7264928167767414
+1081,"Cox PH, Prentice weights",750.0,0.7264928167767414
+1082,"Cox PH, Self-Prentice weights",750.0,0.7265609042009941
+1083,"Cox PH Lasso, Barlow weights",750.0,0.7264928167767414
+1084,"Cox PH Ridge, Barlow weights",750.0,0.7264928167767414
+1085,"Cox PH Elastic Net, Barlow weights",750.0,0.7264928167767414
+1086,"Survival Tree, unweighted",750.0,0.874685095662831
+1087,"Survival Tree, random oversampler",750.0,0.8447266289916252
+1088,"Survival Tree, SMOTENC",750.0,0.8506161911894873
+1089,"Random Survival Forest, unweighted",750.0,0.8591271192210799
+1090,"Random Survival Forest, random oversampler",750.0,0.8694083202832437
+1091,"Random Survival Forest, SMOTENC",750.0,0.8651188125553211
+1092,Unweighted Cox PH,750.0,0.6858588446266172
+1093,"Cox PH, Barlow weights",750.0,0.6855386191879083
+1094,"Cox PH, Prentice weights",750.0,0.6855386191879083
+1095,"Cox PH, Self-Prentice weights",750.0,0.6856667093633918
+1096,"Cox PH Lasso, Barlow weights",750.0,0.6859869348021007
+1097,"Cox PH Ridge, Barlow weights",750.0,0.6855386191879083
+1098,"Cox PH Elastic Net, Barlow weights",750.0,0.6855386191879083
+1099,"Survival Tree, unweighted",750.0,0.8203535288843345
+1100,"Survival Tree, random oversampler",750.0,0.7883950301011913
+1101,"Survival Tree, SMOTENC",750.0,0.7893877289611887
+1102,"Random Survival Forest, unweighted",750.0,0.8418086332778276
+1103,"Random Survival Forest, random oversampler",750.0,0.8437299859100807
+1104,"Random Survival Forest, SMOTENC",750.0,0.8418086332778276
+1105,Unweighted Cox PH,750.0,0.7381383556682362
+1106,"Cox PH, Barlow weights",750.0,0.7383798140770252
+1107,"Cox PH, Prentice weights",750.0,0.7383798140770252
+1108,"Cox PH, Self-Prentice weights",750.0,0.7364481468067126
+1109,"Cox PH Lasso, Barlow weights",750.0,0.7388627308946034
+1110,"Cox PH Ridge, Barlow weights",750.0,0.7383798140770252
+1111,"Cox PH Elastic Net, Barlow weights",750.0,0.7383798140770252
+1112,"Survival Tree, unweighted",750.0,0.8295605456960039
+1113,"Survival Tree, random oversampler",750.0,0.8041168658698539
+1114,"Survival Tree, SMOTENC",750.0,0.7994386091995653
+1115,"Random Survival Forest, unweighted",750.0,0.8386454183266933
+1116,"Random Survival Forest, random oversampler",750.0,0.8355668236146324
+1117,"Random Survival Forest, SMOTENC",750.0,0.8358082820234215
+1118,Unweighted Cox PH,750.0,0.6482389937106918
+1119,"Cox PH, Barlow weights",750.0,0.6478616352201257
+1120,"Cox PH, Prentice weights",750.0,0.6477987421383647
+1121,"Cox PH, Self-Prentice weights",750.0,0.6479874213836478
+1122,"Cox PH Lasso, Barlow weights",750.0,0.6480503144654088
+1123,"Cox PH Ridge, Barlow weights",750.0,0.6478616352201257
+1124,"Cox PH Elastic Net, Barlow weights",750.0,0.6478616352201257
+1125,"Survival Tree, unweighted",750.0,0.8350943396226415
+1126,"Survival Tree, random oversampler",750.0,0.795440251572327
+1127,"Survival Tree, SMOTENC",750.0,0.800503144654088
+1128,"Random Survival Forest, unweighted",750.0,0.8372327044025157
+1129,"Random Survival Forest, random oversampler",750.0,0.8285534591194968
+1130,"Random Survival Forest, SMOTENC",750.0,0.8316981132075472
+1131,Unweighted Cox PH,750.0,0.7381443298969073
+1132,"Cox PH, Barlow weights",750.0,0.7393571861734385
+1133,"Cox PH, Prentice weights",750.0,0.7393571861734385
+1134,"Cox PH, Self-Prentice weights",750.0,0.7386901152213463
+1135,"Cox PH Lasso, Barlow weights",750.0,0.7393571861734385
+1136,"Cox PH Ridge, Barlow weights",750.0,0.7393571861734385
+1137,"Cox PH Elastic Net, Barlow weights",750.0,0.7393571861734385
+1138,"Survival Tree, unweighted",750.0,0.881534263189812
+1139,"Survival Tree, random oversampler",750.0,0.8775015160703457
+1140,"Survival Tree, SMOTENC",750.0,0.8573377804730139
+1141,"Random Survival Forest, unweighted",750.0,0.8787143723468769
+1142,"Random Survival Forest, random oversampler",750.0,0.8873256519102486
+1143,"Random Survival Forest, SMOTENC",750.0,0.8888417222559126
+1144,Unweighted Cox PH,750.0,0.7514407882506042
+1145,"Cox PH, Barlow weights",750.0,0.751750635186218
+1146,"Cox PH, Prentice weights",750.0,0.751750635186218
+1147,"Cox PH, Self-Prentice weights",750.0,0.7518745739604635
+1148,"Cox PH Lasso, Barlow weights",750.0,0.751750635186218
+1149,"Cox PH Ridge, Barlow weights",750.0,0.751750635186218
+1150,"Cox PH Elastic Net, Barlow weights",750.0,0.751750635186218
+1151,"Survival Tree, unweighted",750.0,0.8330854557848423
+1152,"Survival Tree, random oversampler",750.0,0.8267955629918821
+1153,"Survival Tree, SMOTENC",750.0,0.8131932825184359
+1154,"Random Survival Forest, unweighted",750.0,0.8321249302844395
+1155,"Random Survival Forest, random oversampler",750.0,0.8404907975460123
+1156,"Random Survival Forest, SMOTENC",750.0,0.8380739914482246
+1157,Unweighted Cox PH,750.0,0.6854162667178602
+1158,"Cox PH, Barlow weights",750.0,0.684392397773085
+1159,"Cox PH, Prentice weights",750.0,0.6845843732002304
+1160,"Cox PH, Self-Prentice weights",750.0,0.6866321110897805
+1161,"Cox PH Lasso, Barlow weights",750.0,0.684968324054521
+1162,"Cox PH Ridge, Barlow weights",750.0,0.684392397773085
+1163,"Cox PH Elastic Net, Barlow weights",750.0,0.684392397773085
+1164,"Survival Tree, unweighted",750.0,0.7986817687336021
+1165,"Survival Tree, random oversampler",750.0,0.7781723939335765
+1166,"Survival Tree, SMOTENC",750.0,0.8118000895885327
+1167,"Random Survival Forest, unweighted",750.0,0.7984258014974084
+1168,"Random Survival Forest, random oversampler",750.0,0.8018813591860242
+1169,"Random Survival Forest, SMOTENC",750.0,0.8061688103922698
+1170,Unweighted Cox PH,750.0,0.7435105067985167
+1171,"Cox PH, Barlow weights",750.0,0.7438195302843016
+1172,"Cox PH, Prentice weights",750.0,0.7437577255871446
+1173,"Cox PH, Self-Prentice weights",750.0,0.7436341161928307
+1174,"Cox PH Lasso, Barlow weights",750.0,0.7437577255871446
+1175,"Cox PH Ridge, Barlow weights",750.0,0.7438195302843016
+1176,"Cox PH Elastic Net, Barlow weights",750.0,0.7438195302843016
+1177,"Survival Tree, unweighted",750.0,0.8522558714462299
+1178,"Survival Tree, random oversampler",750.0,0.8581582200247219
+1179,"Survival Tree, SMOTENC",750.0,0.8648949320148331
+1180,"Random Survival Forest, unweighted",750.0,0.8399876390605686
+1181,"Random Survival Forest, random oversampler",750.0,0.8509888751545117
+1182,"Random Survival Forest, SMOTENC",750.0,0.8566749072929543
+1183,Unweighted Cox PH,750.0,0.6509882411808857
+1184,"Cox PH, Barlow weights",750.0,0.6560545409056793
+1185,"Cox PH, Prentice weights",750.0,0.6557418063547661
+1186,"Cox PH, Self-Prentice weights",750.0,0.6608706529897423
+1187,"Cox PH Lasso, Barlow weights",750.0,0.6531773830372779
+1188,"Cox PH Ridge, Barlow weights",750.0,0.6560545409056793
+1189,"Cox PH Elastic Net, Barlow weights",750.0,0.6560545409056793
+1190,"Survival Tree, unweighted",750.0,0.8768451338503878
+1191,"Survival Tree, random oversampler",750.0,0.8468538904178133
+1192,"Survival Tree, SMOTENC",750.0,0.8670878158618964
+1193,"Random Survival Forest, unweighted",750.0,0.8692769577182887
+1194,"Random Survival Forest, random oversampler",750.0,0.8787840880660496
+1195,"Random Survival Forest, SMOTENC",750.0,0.8643357518138604
+1196,Unweighted Cox PH,750.0,0.6374639769452449
+1197,"Cox PH, Barlow weights",750.0,0.6394812680115274
+1198,"Cox PH, Prentice weights",750.0,0.639135446685879
+1199,"Cox PH, Self-Prentice weights",750.0,0.6378674351585014
+1200,"Cox PH Lasso, Barlow weights",750.0,0.6394812680115274
+1201,"Cox PH Ridge, Barlow weights",750.0,0.6394812680115274
+1202,"Cox PH Elastic Net, Barlow weights",750.0,0.6394812680115274
+1203,"Survival Tree, unweighted",750.0,0.7962824207492796
+1204,"Survival Tree, random oversampler",750.0,0.7944380403458213
+1205,"Survival Tree, SMOTENC",750.0,0.7844956772334294
+1206,"Random Survival Forest, unweighted",750.0,0.833371757925072
+1207,"Random Survival Forest, random oversampler",750.0,0.8430547550432277
+1208,"Random Survival Forest, SMOTENC",750.0,0.8322190201729107
+1209,Unweighted Cox PH,750.0,0.6860860564838089
+1210,"Cox PH, Barlow weights",750.0,0.6862339198580512
+1211,"Cox PH, Prentice weights",750.0,0.6863078515451723
+1212,"Cox PH, Self-Prentice weights",750.0,0.6854946029868402
+1213,"Cox PH Lasso, Barlow weights",750.0,0.6862339198580512
+1214,"Cox PH Ridge, Barlow weights",750.0,0.6862339198580512
+1215,"Cox PH Elastic Net, Barlow weights",750.0,0.6862339198580512
+1216,"Survival Tree, unweighted",750.0,0.8237838237468579
+1217,"Survival Tree, random oversampler",750.0,0.7899970427325151
+1218,"Survival Tree, SMOTENC",750.0,0.7990906402484105
+1219,"Random Survival Forest, unweighted",750.0,0.8202720686086057
+1220,"Random Survival Forest, random oversampler",750.0,0.8188304007097442
+1221,"Random Survival Forest, SMOTENC",750.0,0.8111045394055892
+1222,Unweighted Cox PH,750.0,0.6482964658021866
+1223,"Cox PH, Barlow weights",750.0,0.6483600305110603
+1224,"Cox PH, Prentice weights",750.0,0.6484235952199339
+1225,"Cox PH, Self-Prentice weights",750.0,0.6468980422069667
+1226,"Cox PH Lasso, Barlow weights",750.0,0.6483600305110603
+1227,"Cox PH Ridge, Barlow weights",750.0,0.6483600305110603
+1228,"Cox PH Elastic Net, Barlow weights",750.0,0.6483600305110603
+1229,"Survival Tree, unweighted",750.0,0.8743961352657005
+1230,"Survival Tree, random oversampler",750.0,0.8387363335875921
+1231,"Survival Tree, SMOTENC",750.0,0.8659102466310704
+1232,"Random Survival Forest, unweighted",750.0,0.8907958301550979
+1233,"Random Survival Forest, random oversampler",750.0,0.9000127129417748
+1234,"Random Survival Forest, SMOTENC",750.0,0.9028731248410883
+1235,Unweighted Cox PH,750.0,0.6268064969945005
+1236,"Cox PH, Barlow weights",750.0,0.6272541245683592
+1237,"Cox PH, Prentice weights",750.0,0.6270622841795626
+1238,"Cox PH, Self-Prentice weights",750.0,0.6268064969945005
+1239,"Cox PH Lasso, Barlow weights",750.0,0.6271262309758281
+1240,"Cox PH Ridge, Barlow weights",750.0,0.6272541245683592
+1241,"Cox PH Elastic Net, Barlow weights",750.0,0.6272541245683592
+1242,"Survival Tree, unweighted",750.0,0.8002302084665558
+1243,"Survival Tree, random oversampler",750.0,0.8087351323698683
+1244,"Survival Tree, SMOTENC",750.0,0.7873449290190562
+1245,"Random Survival Forest, unweighted",750.0,0.8040670162424862
+1246,"Random Survival Forest, random oversampler",750.0,0.806688834889372
+1247,"Random Survival Forest, SMOTENC",750.0,0.7965212942831564
+1248,Unweighted Cox PH,750.0,0.6690795029557245
+1249,"Cox PH, Barlow weights",750.0,0.6698636747496682
+1250,"Cox PH, Prentice weights",750.0,0.6699843165641212
+1251,"Cox PH, Self-Prentice weights",750.0,0.6736638919049343
+1252,"Cox PH Lasso, Barlow weights",750.0,0.6693207865846302
+1253,"Cox PH Ridge, Barlow weights",750.0,0.6698636747496682
+1254,"Cox PH Elastic Net, Barlow weights",750.0,0.6698636747496682
+1255,"Survival Tree, unweighted",750.0,0.8530281095427675
+1256,"Survival Tree, random oversampler",750.0,0.825280492218603
+1257,"Survival Tree, SMOTENC",750.0,0.8140909639280974
+1258,"Random Survival Forest, unweighted",750.0,0.8479913137893594
+1259,"Random Survival Forest, random oversampler",750.0,0.8336349378694655
+1260,"Random Survival Forest, SMOTENC",750.0,0.8577633007600435
+1261,Unweighted Cox PH,750.0,0.6155556928399333
+1262,"Cox PH, Barlow weights",750.0,0.615802804719837
+1263,"Cox PH, Prentice weights",750.0,0.6158645826898128
+1264,"Cox PH, Self-Prentice weights",750.0,0.6158645826898128
+1265,"Cox PH Lasso, Barlow weights",750.0,0.6151232470501019
+1266,"Cox PH Ridge, Barlow weights",750.0,0.615802804719837
+1267,"Cox PH Elastic Net, Barlow weights",750.0,0.615802804719837
+1268,"Survival Tree, unweighted",750.0,0.8362266015938716
+1269,"Survival Tree, random oversampler",750.0,0.8148823129671959
+1270,"Survival Tree, SMOTENC",750.0,0.8580960029653426
+1271,"Random Survival Forest, unweighted",750.0,0.833323037005004
+1272,"Random Survival Forest, random oversampler",750.0,0.8546364366466918
+1273,"Random Survival Forest, SMOTENC",750.0,0.8157780935318465
+1274,Unweighted Cox PH,750.0,0.7123885755866837
+1275,"Cox PH, Barlow weights",750.0,0.7097810927172397
+1276,"Cox PH, Prentice weights",750.0,0.7099023709902371
+1277,"Cox PH, Self-Prentice weights",750.0,0.709720453580741
+1278,"Cox PH Lasso, Barlow weights",750.0,0.7097810927172397
+1279,"Cox PH Ridge, Barlow weights",750.0,0.7097810927172397
+1280,"Cox PH Elastic Net, Barlow weights",750.0,0.7097810927172397
+1281,"Survival Tree, unweighted",750.0,0.8328179006730945
+1282,"Survival Tree, random oversampler",750.0,0.816233096840701
+1283,"Survival Tree, SMOTENC",750.0,0.8424292038081378
+1284,"Random Survival Forest, unweighted",750.0,0.8303316960766479
+1285,"Random Survival Forest, random oversampler",750.0,0.8351828269965436
+1286,"Random Survival Forest, SMOTENC",750.0,0.8374264750469953
+1287,Unweighted Cox PH,750.0,0.6769446818903407
+1288,"Cox PH, Barlow weights",750.0,0.6772499694712419
+1289,"Cox PH, Prentice weights",750.0,0.6771278544388815
+1290,"Cox PH, Self-Prentice weights",750.0,0.6784100622786665
+1291,"Cox PH Lasso, Barlow weights",750.0,0.6772499694712419
+1292,"Cox PH Ridge, Barlow weights",750.0,0.6772499694712419
+1293,"Cox PH Elastic Net, Barlow weights",750.0,0.6772499694712419
+1294,"Survival Tree, unweighted",750.0,0.7907253632922213
+1295,"Survival Tree, random oversampler",750.0,0.7872756136280377
+1296,"Survival Tree, SMOTENC",750.0,0.7934729515203321
+1297,"Random Survival Forest, unweighted",750.0,0.8191171083160337
+1298,"Random Survival Forest, random oversampler",750.0,0.8129502991818293
+1299,"Random Survival Forest, SMOTENC",750.0,0.8031505678349005

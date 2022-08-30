@@ -1,0 +1,45 @@
+,model,obs,score
+0,Unweighted Cox PH,500.0,0.9355618776671408
+1,"Cox PH, Barlow weights",500.0,0.9355618776671408
+2,"Cox PH, Prentice weights",500.0,0.9355618776671408
+3,"Cox PH, Self-Prentice weights",500.0,0.9355618776671408
+4,"Cox PH Lasso, Barlow weights",500.0,0.9355618776671408
+5,"Cox PH Ridge, Barlow weights",500.0,0.9355618776671408
+6,"Cox PH Elastic Net, Barlow weights",500.0,0.9355618776671408
+7,"Survival Tree, unweighted",500.0,0.889900426742532
+8,"Survival Tree, random oversampler",500.0,0.8660028449502134
+9,"Random Survival Forest, unweighted",500.0,0.9160739687055477
+10,"Random Survival Forest, random oversampler",500.0,0.8805832147937411
+11,Unweighted Cox PH,500.0,0.9746599093091491
+12,"Cox PH, Barlow weights",500.0,0.9746599093091491
+13,"Cox PH, Prentice weights",500.0,0.9746599093091491
+14,"Cox PH, Self-Prentice weights",500.0,0.9746599093091491
+15,"Cox PH Lasso, Barlow weights",500.0,0.9746599093091491
+16,"Cox PH Ridge, Barlow weights",500.0,0.9746599093091491
+17,"Cox PH Elastic Net, Barlow weights",500.0,0.9746599093091491
+18,"Survival Tree, unweighted",500.0,0.9497866097626033
+19,"Survival Tree, random oversampler",500.0,0.9505868231528407
+20,"Random Survival Forest, unweighted",500.0,0.9630568151507068
+21,"Random Survival Forest, random oversampler",500.0,0.9545212056548413
+22,Unweighted Cox PH,500.0,0.9796747967479674
+23,"Cox PH, Barlow weights",500.0,0.9796747967479674
+24,"Cox PH, Prentice weights",500.0,0.9796747967479674
+25,"Cox PH, Self-Prentice weights",500.0,0.9796747967479674
+26,"Cox PH Lasso, Barlow weights",500.0,0.9796747967479674
+27,"Cox PH Ridge, Barlow weights",500.0,0.9796747967479674
+28,"Cox PH Elastic Net, Barlow weights",500.0,0.9796747967479674
+29,"Survival Tree, unweighted",500.0,0.9503914483589281
+30,"Survival Tree, random oversampler",500.0,0.9465522433002108
+31,"Random Survival Forest, unweighted",500.0,0.9514453477868112
+32,"Random Survival Forest, random oversampler",500.0,0.9590484793736826
+33,Unweighted Cox PH,500.0,0.9702017114914425
+34,"Cox PH, Barlow weights",500.0,0.9702017114914425
+35,"Cox PH, Prentice weights",500.0,0.9702017114914425
+36,"Cox PH, Self-Prentice weights",500.0,0.9702017114914425
+37,"Cox PH Lasso, Barlow weights",500.0,0.9702017114914425
+38,"Cox PH Ridge, Barlow weights",500.0,0.9702017114914425
+39,"Cox PH Elastic Net, Barlow weights",500.0,0.9702017114914425
+40,"Survival Tree, unweighted",500.0,0.9432304400977995
+41,"Survival Tree, random oversampler",500.0,0.9236705378973105
+42,"Random Survival Forest, unweighted",500.0,0.9627139364303179
+43,"Random Survival Forest, random oversampler",500.0,0.9462102689486552
